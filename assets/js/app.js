@@ -414,8 +414,7 @@ if (document.body.clientWidth <= 767) {
 }
 
 var baseLayers = {
-  "Street Map": cartoLight,
-  "Aerial Imagery": usgsImagery
+  "Street Map": cartoLight
 };
 
 var groupedOverlays = {
