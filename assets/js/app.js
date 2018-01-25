@@ -116,14 +116,15 @@ function syncSidebar() {
   });
 }
 
-/* Basemap Layers */
-var cartoLight = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
+/* Basemap Layers */ /* Define the map tiles, source here. Steps: choose which map I'll use. get access token. get id for that map from my mapbox account  */
+var cartoLight = L.tileLayer($ curl "https://api.mapbox.com/v4/mapbox.streets/1/0/0.png?access_token=pk.eyJ1Ijoia2F0Y2FybGluZSIsImEiOiJjamNsMGd1YjYwMWptMnlxcTNpb2M3ZWJvIn0.HNH9dQ8TpH8JcoePBE-Thw", {
   maxZoom: 19,
-    id: 'geyerbri-msu.1qh1chs8',
-accessToken: 'pk.eyJ1IjoiZ2V5ZXJicmktbXN1IiwiYSI6IkxTRGhIQnMifQ.HbqL3TWxcEQLB61NEzCNYA',
-  attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="https://cartodb.com/attributions">CartoDB</a>'
+   /* id: 'geyerbri-msu.1qh1chs8',
+accessToken: 'pk.eyJ1Ijoia2F0Y2FybGluZSIsImEiOiJjamNsMGd1YjYwMWptMnlxcTNpb2M3ZWJvIn0.HNH9dQ8TpH8JcoePBE-Thw
+',*/
+  attribution: '&copy; <a href="mapbox.com"</a>'
 });
-/*var usgsImagery = L.layerGroup([L.tileLayer("http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/tile/{z}/{y}/{x}", {
+/* (I've commented this out because I don't want users to be able to toggle between street and arial views.) var usgsImagery = L.layerGroup([L.tileLayer("http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/tile/{z}/{y}/{x}", {
   maxZoom: 15,
 }), L.tileLayer.wms("http://raster.nationalmap.gov/arcgis/services/Orthoimagery/USGS_EROS_Ortho_SCALE/ImageServer/WMSServer?", {
   minZoom: 16,
