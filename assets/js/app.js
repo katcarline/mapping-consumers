@@ -116,13 +116,13 @@ function syncSidebar() {
   });
 }
 
-/* Basemap Layers */ /* Define the map tiles, source here. Steps: choose which map I'll use. get access token. get id for that map from my mapbox account  */
+/* Basemap Layers */ /* Define the map tiles, source here. Steps: choose map. get access token. get id for that map from my mapbox account  */
 var cartoLight = L.tileLayer($ curl "https://api.mapbox.com/v4/mapbox.streets/1/0/0.png?access_token=pk.eyJ1Ijoia2F0Y2FybGluZSIsImEiOiJjamNsMGd1YjYwMWptMnlxcTNpb2M3ZWJvIn0.HNH9dQ8TpH8JcoePBE-Thw", {
   maxZoom: 19,
    /* id: 'geyerbri-msu.1qh1chs8',
 accessToken: 'pk.eyJ1Ijoia2F0Y2FybGluZSIsImEiOiJjamNsMGd1YjYwMWptMnlxcTNpb2M3ZWJvIn0.HNH9dQ8TpH8JcoePBE-Thw
 ',*/
-  attribution: '&copy; <a href="mapbox.com"</a>'
+  attribution: '&copy; <a href="mapbox.com"/a>'
 });
 /* (I've commented this out because I don't want users to be able to toggle between street and arial views.) var usgsImagery = L.layerGroup([L.tileLayer("http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/tile/{z}/{y}/{x}", {
   maxZoom: 15,
