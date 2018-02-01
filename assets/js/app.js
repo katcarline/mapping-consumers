@@ -117,7 +117,7 @@ function syncSidebar() {
 }
 
 /* Basemap Layers */ /* Define the map tiles, source here. Steps: choose map. get access token. get id for that map from my mapbox account  */
-var cartoLight = L.tileLayer($ curl "https://api.mapbox.com/v4/mapbox.streets/1/0/0.png?access_token=pk.eyJ1Ijoia2F0Y2FybGluZSIsImEiOiJjamNsMGd1YjYwMWptMnlxcTNpb2M3ZWJvIn0.HNH9dQ8TpH8JcoePBE-Thw", {
+var cartoLight = /*L.tileLayer*/($ curl "https://api.mapbox.com/v4/mapbox.streets/1/0/0.png?access_token=pk.eyJ1Ijoia2F0Y2FybGluZSIsImEiOiJjamNsMGd1YjYwMWptMnlxcTNpb2M3ZWJvIn0.HNH9dQ8TpH8JcoePBE-Thw", {
   maxZoom: 19,
    /* id: 'geyerbri-msu.1qh1chs8',
 accessToken: 'pk.eyJ1Ijoia2F0Y2FybGluZSIsImEiOiJjamNsMGd1YjYwMWptMnlxcTNpb2M3ZWJvIn0.HNH9dQ8TpH8JcoePBE-Thw
@@ -162,10 +162,11 @@ var boroughs = L.geoJson(null, {
     });
   }
 });
-$.getJSON("data/boroughs.geojson", function (data) {
+$.getJSON("data/geojsontrial.geojson", function (data) {
   boroughs.addData(data);
 });
 
+/*
 //Create a color dictionary based off of subway route_id
 var subwayColors = {"1":"#ff3135", "2":"#ff3135", "3":"ff3135", "4":"#009b2e",
     "5":"#009b2e", "6":"#009b2e", "7":"#ce06cb", "A":"#fd9a00", "C":"#fd9a00",
@@ -214,7 +215,7 @@ var subwayLines = L.geoJson(null, {
 });
 $.getJSON("data/subways.geojson", function (data) {
   subwayLines.addData(data);
-});
+}); */
 
 /* Single marker cluster layer to hold all clusters */
 var markerClusters = new L.MarkerClusterGroup({
@@ -223,6 +224,7 @@ var markerClusters = new L.MarkerClusterGroup({
   zoomToBoundsOnClick: true,
   disableClusteringAtZoom: 16
 });
+
 
 /* Empty layer placeholder to add to layer control for listening when to add/remove theaters to markerClusters layer */
 var theaterLayer = L.geoJson(null);
@@ -262,10 +264,10 @@ var theaters = L.geoJson(null, {
     }
   }
 });
-$.getJSON("data/DOITT_THEATER_01_13SEPT2010.geojson", function (data) {
+/* $.getJSON("data/DOITT_THEATER_01_13SEPT2010.geojson", function (data) {
   theaters.addData(data);
   map.addLayer(theaterLayer);
-});
+}); */
 
 /* Empty layer placeholder to add to layer control for listening when to add/remove museums to markerClusters layer */
 var museumLayer = L.geoJson(null);
@@ -305,9 +307,9 @@ var museums = L.geoJson(null, {
     }
   }
 });
-$.getJSON("data/DOITT_MUSEUM_01_13SEPT2010.geojson", function (data) {
+ /* $.getJSON("data/DOITT_MUSEUM_01_13SEPT2010.geojson", function (data) {
   museums.addData(data);
-});
+}); */
 
 map = L.map("map", {
   zoom: 10,
