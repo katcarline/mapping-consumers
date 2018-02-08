@@ -8,7 +8,7 @@
        "coordinates":  [ 27.456461,-31.799019 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-07-15",
+    "Date":"38-07-15",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. Ethel Matole",
     "Address":"P.O. Southeyville, Lady Frere",
@@ -23,7 +23,7 @@
        "coordinates":  [ 28.145021,-32.320493 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-07-15",
+    "Date":"38-07-15",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. A. Jane Geilitshana",
     "Address":"Mpenduza, Butterworth",
@@ -38,7 +38,7 @@
        "coordinates":  [ 27.246678,-32.792931 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-07-15",
+    "Date":"38-07-15",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. Avis Matshikwe",
     "Address":"P.O. Pirie, King William's Town",
@@ -53,7 +53,7 @@
        "coordinates":  [ 28.318281,-32.507809 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-07-15",
+    "Date":"38-07-15",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. H.W.D. Msila",
     "Address":"Mtanana, Kentani",
@@ -68,7 +68,7 @@
        "coordinates":  [ 28.153266,-32.331952 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-07-15",
+    "Date":"38-07-15",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. Janet N. Ntisana",
     "Address":"C.o. Mrs. H. Louw, Butterworth",
@@ -83,7 +83,7 @@
        "coordinates":  [ 27.3325,-32.938202 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-07-15",
+    "Date":"38-07-15",
     "Product":"Ambrosia Tea",
     "Name":"Miss Nellie Ntlama",
     "Address":"Masele School, King William's Town",
@@ -98,7 +98,7 @@
        "coordinates":  [ 27.346698,-31.473392 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-07-15",
+    "Date":"38-07-15",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. Minah Sipoyo",
     "Address":"P.O. Box 18, Indwe",
@@ -113,7 +113,7 @@
        "coordinates":  [ 27.588789,-32.451845 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-07-15",
+    "Date":"38-07-15",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. Jessie Sonqishe",
     "Address":"Village No.5 P.O. Emgwali, via Stutterheim",
@@ -128,7 +128,7 @@
        "coordinates":  [ 28.218242,-31.5572 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-07-15",
+    "Date":"38-07-15",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. N.S. Silinga",
     "Address":"P.O. Gqaga, via Clarkebury",
@@ -143,7 +143,7 @@
        "coordinates":  [ 27.583875,-32.0052 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-07-15",
+    "Date":"38-07-15",
     "Product":"Ambrosia Tea",
     "Name":"Mr. Milford Mgwigwi",
     "Address":"C.o. Mr. L.V. Wattrus, Comfimvaba",
@@ -158,7 +158,7 @@
        "coordinates":  [ 28.678194,-31.966203 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-07-15",
+    "Date":"38-07-15",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. E.R. Nangu",
     "Address":"Xhorana Store, Elliotdale",
@@ -173,7 +173,7 @@
        "coordinates":  [ 27.110489,-33.196741 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-07-15",
+    "Date":"38-07-15",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. Sophie Mzano",
     "Address":"C.o. Mrs. P.E. Kopke, Peddie",
@@ -188,7 +188,7 @@
        "coordinates":  [ 28.690431,-31.019547 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-07-15",
+    "Date":"38-07-15",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. Henrietta Ngcetane",
     "Address":"Sulenkama Hospital, Qumbu",
@@ -203,7 +203,7 @@
        "coordinates":  [ 27.108944,-33.195161 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"39-07-15",
+    "Date":"39-07-15",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. Marambana",
     "Address":"Peddie",
@@ -218,7 +218,7 @@
        "coordinates":  [ 28.223451,-32.482039 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"39-11-15",
+    "Date":"39-11-15",
     "Product":"Ambrosia Tea",
     "Name":"Janet A.B. Ntisana",
     "Address":"Nonyembezi, E-Gcuwa",
@@ -233,7 +233,7 @@
        "coordinates":  [ 27.419798,-30.546794 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-10-15",
+    "Date":"38-10-15",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. S. Hlaula",
     "Address":"Voyizana School, P.O. Sterkspruit",
@@ -248,7 +248,7 @@
        "coordinates":  [ 27.066541,-32.584322 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-10-15",
+    "Date":"38-10-15",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. Nombetu Ntisana",
     "Address":"c.o. Mrs. A.H. Louw, Mnyameni",
@@ -263,7 +263,7 @@
        "coordinates":  [ 27.350325,-31.472367 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-10-15",
+    "Date":"38-10-15",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. Annie Maseti",
     "Address":"Municipal Location, Indwe",
@@ -278,7 +278,7 @@
        "coordinates":  [ 27.69726,-31.526429 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-10-15",
+    "Date":"38-10-15",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. Sigwela",
     "Address":"Langanci Plantation. Cala",
@@ -293,7 +293,7 @@
        "coordinates":  [ 28.784698,-31.581686 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-10-15",
+    "Date":"38-10-15",
     "Product":"Ambrosia Tea",
     "Name":"Miss Winnie Masiba",
     "Address":"Khambi Methodist School, Umtata",
@@ -308,7 +308,7 @@
        "coordinates":  [ 27.385967,-32.879956 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-10-15",
+    "Date":"38-10-15",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. Elda Ntsonkota",
     "Address":"Brownlee Mission, King William's Town",
@@ -323,7 +323,7 @@
        "coordinates":  [ 27.200247,-31.676024 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-10-15",
+    "Date":"38-10-15",
     "Product":"Ambrosia Tea",
     "Name":"Miss Dorcas Jolobe",
     "Address":"Ngqanda, P.O. Lady Frere",
@@ -338,7 +338,7 @@
        "coordinates":  [ 28.310181,-32.508659 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-10-15",
+    "Date":"38-10-15",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. Houghton W.D. Msila",
     "Address":"Mthanana, Kentani",
@@ -353,7 +353,7 @@
        "coordinates":  [ 28.760725,-31.817035 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mr. Hamilton Ngwendze",
     "Address":"P.O. Box Old Morley, Mqanduli",
@@ -368,7 +368,7 @@
        "coordinates":  [ 27.753334,-31.817354 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mrs. P.W. Dana",
     "Address":"C/o J.R. de Wet, Esq. P.O. Ncora, Cofimvaba",
@@ -383,7 +383,7 @@
        "coordinates":  [ 29.640187,-30.948185 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mrs. Elsie Jordan",
     "Address":"c/o Swane Ridge P.O. Ntlenzi",
@@ -398,7 +398,7 @@
        "coordinates":  [ 25.640842,-32.180357 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mr. J.S. Rummie ",
     "Address":"P.O. Box 23 Cradock C.P.",
@@ -413,7 +413,7 @@
        "coordinates":  [ 27.121872,-32.590144 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mrs. H.E.N. Gijana",
     "Address":"Upper Chatha, Keiskama Hoek",
@@ -428,7 +428,7 @@
        "coordinates":  [ 28.313576,-32.093718 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mr. B.N. Ndinisa",
     "Address":"Mpuluse Siding, Idutywa",
@@ -443,7 +443,7 @@
        "coordinates":  [ 28.003649,-31.679971 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Miss G.A. Mhlauli",
     "Address":"Manzana School, P.O. Engcobo",
@@ -458,7 +458,7 @@
        "coordinates":  [ 28.43092,-31.614702 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mrs. C.C. Mahlahla ",
     "Address":"P.O. Baziya, Umtata",
@@ -473,7 +473,7 @@
        "coordinates":  [ 28.632517,-31.882193 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mr. G.S. Qusheka",
     "Address":"c/o Mr. J.H. Beckermann P.O. Darabe",
@@ -488,7 +488,7 @@
        "coordinates":  [ 27.561695,-30.440102 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mr. Ashby P. Ka Mda",
     "Address":"Lower Telle Location, P.O. Palmietfontein, Herschel",
@@ -503,7 +503,7 @@
        "coordinates":  [ 29.497164,-31.052937 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mrs. Maria F. Swana",
     "Address":"Mhlanga School, Flagstaff",
@@ -518,7 +518,7 @@
        "coordinates":  [ 27.564877,-32.449738 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mr. Arnold Duze",
     "Address":"Gernet Farm, P.O. Emgwali",
@@ -533,7 +533,7 @@
        "coordinates":  [ 29.301917,-30.963721 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mrs. Elizabeth Hlongwana",
     "Address":"Mtukukazi Store, P.O. Tabankulu",
@@ -548,7 +548,7 @@
        "coordinates":  [ 27.928992,-31.6646 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mr. D.W.J. Dlwati",
     "Address":"Emkanzi E.C. Sch. C.o. E. Engling Esq P.O. Engcobo",
@@ -563,7 +563,7 @@
        "coordinates":  [ 28.309198,-32.384657 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mrs. E.A.N. Barnes",
     "Address":"c/o R.L. Harrison. Esq. Teko Springs Butterworth",
@@ -578,7 +578,7 @@
        "coordinates":  [ 27.755737,-31.810498 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mrs. Nomanage Limani",
     "Address":"C/o J. McGill Esq. P.O. Ncora, Cofimvaba",
@@ -593,7 +593,7 @@
        "coordinates":  [ 28.978526,-31.866082 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mr. Enoch H. Ntingi",
     "Address":"c/o Mrs. A.T. Sharpley, Mpame, Old Morley",
@@ -608,7 +608,7 @@
        "coordinates":  [ 27.755231,-31.800219 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Miss Eunice Kuku Mgudlwa",
     "Address":"C/o J. McGill Esq. P.O. Ncora, Cofimvaba",
@@ -623,7 +623,7 @@
        "coordinates":  [ 28.28652,-31.789003 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mr. Germond Ciliza",
     "Address":"P.O. Clarkebury",
@@ -638,7 +638,7 @@
        "coordinates":  [ 24.635921,-27.624902 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mrs. B. Nomadolo",
     "Address":"Northern Line Works, Buxton, P.O. Norlim, Via Taungs",
@@ -653,7 +653,7 @@
        "coordinates":  [ 28.816292,-30.3417 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mrs. Lydia Ndawo",
     "Address":"P.O. Sigoga, Matatiele",
@@ -668,7 +668,7 @@
        "coordinates":  [ 26.975549,-31.955537 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mr. C.H. Kula",
     "Address":"P.O. Oak Grove, Via Imvani",
@@ -683,7 +683,7 @@
        "coordinates":  [ 28.070557,-26.225209 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mr. A.M. Gwele",
     "Address":"C.M.R. Cons. Reef, Johannesburg",
@@ -698,7 +698,7 @@
        "coordinates":  [ 27.240222,-33.221265 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Miss S.N. Mzamo",
     "Address":"c/o P.E. Kopke, Esq. Woolridge, Peddie",
@@ -713,7 +713,7 @@
        "coordinates":  [ 27.57976,-32.881087 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mr. Allison Mayekiso",
     "Address":"c/o J.K. Sicatsha, Esq., Mncotsho Location, Berlin",
@@ -728,7 +728,7 @@
        "coordinates":  [ 25.401503,-33.774173 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mr. D.D.P. Lukashe",
     "Address":"P.O. Box 86 Uitenhage",
@@ -743,7 +743,7 @@
        "coordinates":  [ 26.418535,-33.656844 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mrs. J.A. Tena",
     "Address":"P.O. Alexandria",
@@ -758,7 +758,7 @@
        "coordinates":  [ 26.882861,-31.900046 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mr. Austin Mkhefa",
     "Address":"Upper Machibini, Queenstown",
@@ -773,7 +773,7 @@
        "coordinates":  [ 25.574588,-33.926041 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mr. Ruthven Hani",
     "Address":"c/o Gordon Alfred, Esq., Kemptson Rd., Korsten, P.E.",
@@ -788,7 +788,7 @@
        "coordinates":  [ 27.419729,-32.455298 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"37-08-16",
+    "Date":"37-08-16",
     "Product":"Kowie Medicines",
     "Name":"Mr. Surgeon Mpehlo",
     "Address":"Wartburg School, Toise River",
@@ -803,7 +803,7 @@
        "coordinates":  [ 27.86049,-32.994204 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"39-01-16",
+    "Date":"39-01-16",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. Ntsonkota",
     "Address":"Near to the City of East London",
@@ -818,7 +818,7 @@
        "coordinates":  [ 27.766067,-32.876334 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-05-16",
+    "Date":"38-05-16",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. Ntsonkota",
     "Address":"St. Luke's Mission, East London",
@@ -833,7 +833,7 @@
        "coordinates":  [ 27.904592,-33.021262 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-05-16",
+    "Date":"38-05-16",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. Ellen Tyamzashe",
     "Address":"302 Church St., E. Bank Location, E[east] L[ondon]",
@@ -848,7 +848,7 @@
        "coordinates":  [ 28.2995,-32.101353 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-05-16",
+    "Date":"38-05-16",
     "Product":"Ambrosia Tea",
     "Name":"Miss E. Sofute",
     "Address":"c/o Messrs. F Richardson, Idutywa",
@@ -863,7 +863,7 @@
        "coordinates":  [ 27.057163,-31.669935 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-05-16",
+    "Date":"38-05-16",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. W.T. Mrwebi",
     "Address":"P.O. Lady Frere",
@@ -878,7 +878,7 @@
        "coordinates":  [ 27.955899,-32.218173 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-05-16",
+    "Date":"38-05-16",
     "Product":"Ambrosia Tea",
     "Name":"Miss R Kwali",
     "Address":"c/o J.H. Bryant, Mbiza Sotre, Nqamakwe",
@@ -893,7 +893,7 @@
        "coordinates":  [ 27.865421,-32.231974 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-05-16",
+    "Date":"38-05-16",
     "Product":"Ambrosia Tea",
     "Name":"Miss A. Mahlangeni",
     "Address":"c/o Rev. Mphamba, Ndakana (B.P.C), Nqamakwe",
@@ -908,7 +908,7 @@
        "coordinates":  [ 27.889539,-32.218578 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-05-16",
+    "Date":"38-05-16",
     "Product":"Ambrosia Tea",
     "Name":"Mr. T.M. Qaba",
     "Address":"Ndakana Mission, Nqamakwe",
@@ -923,7 +923,7 @@
        "coordinates":  [ 28.569828,-31.574262 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-05-16",
+    "Date":"38-05-16",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. N. Silinga",
     "Address":"Tabase Mission, Umtata",
@@ -938,7 +938,7 @@
        "coordinates":  [ 27.183152,-32.64989 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-05-16",
+    "Date":"38-05-16",
     "Product":"Ambrosia Tea",
     "Name":"Miss C.C. Mashologu",
     "Address":"St. Matthew's College, P.O. St Matthews",
@@ -953,7 +953,7 @@
        "coordinates":  [ 27.039047,-31.92239 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-05-16",
+    "Date":"38-05-16",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. F. Makhubalo",
     "Address":"Klien [Klein] Booi School, P.O. Machibini, Queenstown",
@@ -968,7 +968,7 @@
        "coordinates":  [ 26.881649,-31.899909 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-05-16",
+    "Date":"38-05-16",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. M. Mfenyana",
     "Address":"Upper Machibini, Queenstown",
@@ -983,7 +983,7 @@
        "coordinates":  [ 27.882154,-33.00919 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-05-16",
+    "Date":"38-05-16",
     "Product":"Ambrosia Tea",
     "Name":"Miss E. Mazwi",
     "Address":"383 Main St., East Bank Location, East London",
@@ -998,7 +998,7 @@
        "coordinates":  [ 28.578562,-31.572624 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-05-16",
+    "Date":"38-05-16",
     "Product":"Ambrosia Tea",
     "Name":"Mrs. D. Silimela",
     "Address":"Tabase Mission, Umtata",
@@ -1013,7 +1013,7 @@
        "coordinates":  [ 28.332517,-32.035892 ]
     },
     "properties": {
-    "Date (YY/MM/DD)":"38-05-16",
+    "Date":"38-05-16",
     "Product":"Ambrosia Tea",
     "Name":"Mr. D. Jekeni",
     "Address":"c/o Mr. C.L. Geach, Colosa Store, Idutywa",
