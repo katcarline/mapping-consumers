@@ -243,7 +243,7 @@ var umlindi = L.geoJson(null, {
       var content = "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Date</th><td>" + feature.properties.Date + "</td></tr>" + "<tr><th>Product</th><td>" + feature.properties.Product + "</td></tr>" + "<tr><th>Name</th><td>" + feature.properties.Name + "</td></tr>" + "<tr><th>Address</th><td>" + feature.properties.Address + "</td></tr>" + "<tr><th>Details</th><td>" + feature.properties.Details + "</td></tr>" + "<table>";
       layer.on({
         click: function (e) {
-          $("#feature-title").html(feature.properties.Name);
+          $("#feature-title").html(feature.properties.Product);
           $("#feature-info").html(content);
           $("#featureModal").modal("show");
           highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], highlightStyle));
@@ -267,7 +267,7 @@ $.getJSON("data/Umlindi.geojson", function (data) {
 });
 
 /* Empty layer placeholder to add to layer control for listening when to add/remove museums to markerClusters layer */
- var museumLayer = L.geoJson(null);
+/* var museumLayer = L.geoJson(null);
 var museums = L.geoJson(null, {
   pointToLayer: function (feature, latlng) {
     return L.marker(latlng, {
@@ -277,10 +277,10 @@ var museums = L.geoJson(null, {
         iconAnchor: [12, 28],
         popupAnchor: [0, -25]
       }),
-      title: feature.properties.Name,
+      title: feature.properties.NAME,
       riseOnHover: true
     });
-  },
+  },*/
     
     /* Museums Data filtered out for until I replact them with Bantu World geojson file */ 
     
