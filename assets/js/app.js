@@ -43,7 +43,7 @@ $("#login-btn").click(function() {
 
 $("#list-btn").click(function() {
   animateSidebar();
-  return false;
+  return true;
 });
 
 $("#nav-btn").click(function() {
