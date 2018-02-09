@@ -43,7 +43,7 @@ $("#login-btn").click(function() {
 
 $("#list-btn").click(function() {
   animateSidebar();
-  return true;
+  return false;
 });
 
 $("#nav-btn").click(function() {
@@ -232,7 +232,7 @@ var umlindi = L.geoJson(null, {
         iconAnchor: [12, 28],
         popupAnchor: [0, -25]
       }),
-      title: feature.properties.NAME,
+      title: feature.properties.Name,
       riseOnHover: true
     });
   },
@@ -267,7 +267,7 @@ $.getJSON("data/Umlindi.geojson", function (data) {
 });
 
 /* Empty layer placeholder to add to layer control for listening when to add/remove museums to markerClusters layer */
-/* var museumLayer = L.geoJson(null);
+ var museumLayer = L.geoJson(null);
 var museums = L.geoJson(null, {
   pointToLayer: function (feature, latlng) {
     return L.marker(latlng, {
@@ -277,10 +277,10 @@ var museums = L.geoJson(null, {
         iconAnchor: [12, 28],
         popupAnchor: [0, -25]
       }),
-      title: feature.properties.NAME,
+      title: feature.properties.Name,
       riseOnHover: true
     });
-  },*/
+  },
     
     /* Museums Data filtered out for until I replact them with Bantu World geojson file */ 
     
