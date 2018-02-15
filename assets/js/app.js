@@ -1,4 +1,4 @@
-var map, featureList, boroughSearch = [], umlindiSearch = [], museumSearch = [];
+var map, featureList, boroughSearch = [], umlindiSearch = [], BantuWorldSearch = [];
 
 $(window).resize(function() {
   sizeLayerControl();
@@ -100,8 +100,8 @@ function syncSidebar() {
     }
   });
   /* Loop through museums layer and add only features which are in the map bounds */
-  museums.eachLayer(function (layer) {
-    if (map.hasLayer(museumLayer)) {
+  BantuWorld.eachLayer(function (layer) {
+    if (map.hasLayer(BantuWorldLayer)) {
       if (map.getBounds().contains(layer.getLatLng())) {
         $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><img width="16" height="18" src="assets/img/museum.png"></td><td class="feature-name">' + layer.feature.properties.NAME + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
       }
@@ -267,8 +267,8 @@ $.getJSON("data/Umlindi.geojson", function (data) {
 });
 
 /* Empty layer placeholder to add to layer control for listening when to add/remove museums to markerClusters layer */
-/* var museumLayer = L.geoJson(null);
-var museums = L.geoJson(null, {
+ var BantuWorldLayer = L.geoJson(null);
+var BantuWorld = L.geoJson(null, {
   pointToLayer: function (feature, latlng) {
     return L.marker(latlng, {
       icon: L.icon({
@@ -280,26 +280,26 @@ var museums = L.geoJson(null, {
       title: feature.properties.NAME,
       riseOnHover: true
     });
-  },*/
+  },
     
     /* Museums Data filtered out for until I replact them with Bantu World geojson file */ 
     
- /* onEachFeature: function (feature, layer) {
+  onEachFeature: function (feature, layer) {
     if (feature.properties) {
-      var content = "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Name</th><td>" + feature.properties.NAME + "</td></tr>" + "<tr><th>Phone</th><td>" + feature.properties.TEL + "</td></tr>" + "<tr><th>Address</th><td>" + feature.properties.ADRESS1 + "</td></tr>" + "<tr><th>Website</th><td><a class='url-break' href='" + feature.properties.URL + "' target='_blank'>" + feature.properties.URL + "</a></td></tr>" + "<table>";
+      var content = "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Date</th><td>" + feature.properties.Date + "</td></tr>" + "<tr><th>Product</th><td>" + feature.properties.Product + "</td></tr>" + "<tr><th>Name</th><td>" + feature.properties.Name + "</td></tr>" + "</td></tr>" + "<tr><th>Address</th><td>" + feature.properties.Adress + "</td></tr>" + "<tr><th>Details</th><td>" + feature.properties.Details + "</a></td></tr>" + "<table>";
       layer.on({
         click: function (e) {
-          $("#feature-title").html(feature.properties.NAME);
+          $("#feature-title").html(feature.properties.Name);
           $("#feature-info").html(content);
           $("#featureModal").modal("show");
           highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], highlightStyle));
         }
       });
-      $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><img width="16" height="18" src="assets/img/museum.png"></td><td class="feature-name">' + layer.feature.properties.NAME + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
-      museumSearch.push({
-        name: layer.feature.properties.NAME,
-        address: layer.feature.properties.ADRESS1,
-        source: "Museums",
+      $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><img width="16" height="18" src="assets/img/museum.png"></td><td class="feature-name">' + layer.feature.properties.Product + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
+      BantuWorldSearch.push({
+        name: layer.feature.properties.Name,
+        address: layer.feature.properties.Product,
+        source: "BantuWorld",
         id: L.stamp(layer),
         lat: layer.feature.geometry.coordinates[1],
         lng: layer.feature.geometry.coordinates[0]
@@ -307,9 +307,9 @@ var museums = L.geoJson(null, {
     }
   }
 });
-$.getJSON("data/DOITT_MUSEUM_01_13SEPT2010.geojson", function (data) {
-  museums.addData(data);
-}); */  
+$.getJSON("data/BantuWorld.geojson", function (data) {
+  BantuWorld.addData(data);
+});  
 
 map = L.map("map", {
   zoom: 6,
@@ -325,8 +325,8 @@ map.on("overlayadd", function(e) {
     markerClusters.addLayer(umlindi);
     syncSidebar();
   }
-  if (e.layer === museumLayer) {
-    markerClusters.addLayer(museums);
+  if (e.layer === BantuWorldLayer) {
+    markerClusters.addLayer(BantuWorld);
     syncSidebar();
   }
 });
@@ -336,8 +336,8 @@ map.on("overlayremove", function(e) {
     markerClusters.removeLayer(umlindi);
     syncSidebar();
   }
-  if (e.layer === museumLayer) {
-    markerClusters.removeLayer(museums);
+  if (e.layer === BantuWorldLayer) {
+    markerClusters.removeLayer(BantuWorld);
     syncSidebar();
   }
 });
@@ -424,7 +424,7 @@ var baseLayers = {
 var groupedOverlays = {
   "Points of Interest": {
     "<img src='assets/img/theater.png' width='24' height='28'>&nbsp;Umlindi": umlindiLayer,
-    "<img src='assets/img/museum.png' width='24' height='28'>&nbsp;Museums": museumLayer
+    "<img src='assets/img/museum.png' width='24' height='28'>&nbsp;BantuWorld": BantuWorldLayer
   },
   "Reference": {
     "Boroughs": boroughs,
@@ -481,13 +481,13 @@ $(document).one("ajaxStop", function () {
     limit: 10
   });
 
-  var museumsBH = new Bloodhound({
-    name: "Museums",
+  var BantuWorldBH = new Bloodhound({
+    name: "BantuWorld",
     datumTokenizer: function (d) {
       return Bloodhound.tokenizers.whitespace(d.name);
     },
     queryTokenizer: Bloodhound.tokenizers.whitespace,
-    local: museumSearch,
+    local: BantuWorldSearch,
     limit: 10
   });
 
@@ -523,7 +523,7 @@ $(document).one("ajaxStop", function () {
   });
   boroughsBH.initialize();
   umlindiBH.initialize();
-  museumsBH.initialize();
+  BantuWorldBH.initialize();
   geonamesBH.initialize();
 
   /* instantiate the typeahead UI */
@@ -547,11 +547,11 @@ $(document).one("ajaxStop", function () {
       suggestion: Handlebars.compile(["{{name}}<br>&nbsp;<small>{{address}}</small>"].join(""))
     }
   }, {
-    name: "Museums",
+    name: "BantuWorld",
     displayKey: "name",
-    source: museumsBH.ttAdapter(),
+    source: BantuWorldBH.ttAdapter(),
     templates: {
-      header: "<h4 class='typeahead-header'><img src='assets/img/museum.png' width='24' height='28'>&nbsp;Museums</h4>",
+      header: "<h4 class='typeahead-header'><img src='assets/img/museum.png' width='24' height='28'>&nbsp;BantuWorld</h4>",
       suggestion: Handlebars.compile(["{{name}}<br>&nbsp;<small>{{address}}</small>"].join(""))
     }
   }, {
@@ -574,9 +574,9 @@ $(document).one("ajaxStop", function () {
         map._layers[datum.id].fire("click");
       }
     }
-    if (datum.source === "Museums") {
-      if (!map.hasLayer(museumLayer)) {
-        map.addLayer(museumLayer);
+    if (datum.source === "BantuWorld") {
+      if (!map.hasLayer(BantuWorldLayer)) {
+        map.addLayer(BantuWorldLayer);
       }
       map.setView([datum.lat, datum.lng], 17);
       if (map._layers[datum.id]) {
