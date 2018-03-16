@@ -214,12 +214,12 @@ $.getJSON("data/subways.geojson", function (data) {
 });
 
 /* Single marker cluster layer to hold all clusters */
-/* var markerClusters = new L.MarkerClusterGroup({
+var markerClusters = new L.MarkerClusterGroup({
   spiderfyOnMaxZoom: true,
   showCoverageOnHover: false,
   zoomToBoundsOnClick: true,
   disableClusteringAtZoom: 16
-}); */
+});
 
 /* Empty layer placeholder to add to layer control for listening when to add/remove theaters to markerClusters layer */
 var umlindiLayer = L.geoJson(null);
@@ -314,13 +314,13 @@ $.getJSON("data/BantuWorld.geojson", function (data) {
 map = L.map("map", {
   zoom: 6,
   center: [-28.905463, 24.448691],
-  layers: [cartoLight, boroughs, /*markerClusters,*/ highlight],
+  layers: [cartoLight, boroughs, markerClusters, highlight],
   zoomControl: false,
   attributionControl: false
 });
 
 /* Layer control listeners that allow for a single markerClusters layer */
-/* map.on("overlayadd", function(e) {
+map.on("overlayadd", function(e) {
   if (e.layer === umlindiLayer) {
     markerClusters.addLayer(umlindi);
     syncSidebar();
@@ -340,7 +340,7 @@ map.on("overlayremove", function(e) {
     markerClusters.removeLayer(BantuWorld);
     syncSidebar();
   }
-}); */
+});
 
 /* Filter sidebar feature list to only show features in current map bounds */
 map.on("moveend", function (e) {
