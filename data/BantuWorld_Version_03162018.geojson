@@ -1,0 +1,357 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.625475,-20.288844 ]
+    },
+    "properties": {
+    "Date":"37-12-18",
+    "Product":"Parton's Purifying Pills",
+    "id":0,
+    "Name":"Mnumzana Jackson Heke",
+    "Address":"c/o Mr. F. Reabow Chipinga, S. Rhodesia",
+    "Type of Advert":"Testimonial",
+    "Details":"Igazi Elicocekileyo Nemitambo Eyomeleleyo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.241964,-28.224947 ]
+    },
+    "properties": {
+    "Date":"37-12-18",
+    "Product":"Parton's Purifying Pills",
+    "id":1,
+    "Name":"E.J. Tshanga",
+    "Address":"c/o T.F. Piccione, Esq., P.O. Umfolozi, Natal",
+    "Type of Advert":"Testimonial",
+    "Details":"Igazi Elicocekileyo Nemitambo Eyomeleleyo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.102123,-25.465625 ]
+    },
+    "properties": {
+    "Date":"37-12-25",
+    "Product":"Feluna Pills",
+    "id":2,
+    "Name":"Ezekiel Nkosi",
+    "Address":"P.O. Karino, Transvaal",
+    "Type of Advert":"Testimonial",
+    "Details":"Wayefuna Kubuyiswe Ikazi Lake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.911177,-26.222288 ]
+    },
+    "properties": {
+    "Date":"37-12-04",
+    "Product":"Phosferine",
+    "id":3,
+    "Name":"Mr. J.D. Seboka",
+    "Address":"109 Orlando Township",
+    "Type of Advert":"Testimonial",
+    "Details":"At the Age of 60 Mr. Seboka Works Like a Young Man"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.923992,-29.098172 ]
+    },
+    "properties": {
+    "Date":"37-12-11",
+    "Product":"Feluna Pills",
+    "id":4,
+    "Name":"Mr. Luka Dhlamini",
+    "Address":"Cash Store, P.O. Willow Grange, Natal",
+    "Type of Advert":"Testimonial",
+    "Details":"Bekwonakelepi Ku Mrs. Dhlamini Na?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.898577,-29.793398 ]
+    },
+    "properties": {
+    "Date":"32-11-12",
+    "Product":"Clermont Township",
+    "id":5,
+    "Name":"Mr. Solomon Sibisi",
+    "Address":"Erf No. 1158, Township of Clermont, Durban",
+    "Type of Advert":"Testimonial",
+    "Details":"Clermont Township - Fac-Simile of First-Transfer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.487846,-25.93861 ]
+    },
+    "properties": {
+    "Date":"33-03-04",
+    "Product":"Carlisle Curative Compound ",
+    "id":13,
+    "Name":"Mrs. Francina J. Smit",
+    "Address":"Onbekend No. 226 District Pretoria",
+    "Type of Advert":"Testimonial",
+    "Details":"Very Interested? YES, we know you will be, in Carlisle Curative Compound, if you learn of its wonderful cures"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.397112,-33.908137 ]
+    },
+    "properties": {
+    "Date":"33-03-04",
+    "Product":"Carlisle Curative Compound ",
+    "id":14,
+    "Name":"Mrs. J. Williams",
+    "Address":"Three Anchor Bay, C[ape] P[rovince]",
+    "Type of Advert":"Testimonial",
+    "Details":"Very Interested? YES, we know you will be, in Carlisle Curative Compound, if you learn of its wonderful cures"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.465346,-33.928265 ]
+    },
+    "properties": {
+    "Date":"33-03-04",
+    "Product":"Carlisle Curative Compound ",
+    "id":15,
+    "Name":"Mr. J. Miller",
+    "Address":"Salt River, C[ape] P[rovince]",
+    "Type of Advert":"Testimonial",
+    "Details":"Very Interested? YES, we know you will be, in Carlisle Curative Compound, if you learn of its wonderful cures"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.807544,-26.093494 ]
+    },
+    "properties": {
+    "Date":"33-04-22",
+    "Product":"Carlisle Curative Compound ",
+    "id":16,
+    "Name":"Mr. R.H. Ritter",
+    "Address":"Krugersdorp",
+    "Type of Advert":"Testimonial",
+    "Details":"Ulindelwe Yindyebo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.171219,-26.227091 ]
+    },
+    "properties": {
+    "Date":"33-04-22",
+    "Product":"Carlisle Curative Compound ",
+    "id":17,
+    "Name":"Mrs. J.P.C. Meyer",
+    "Address":"West Germiston",
+    "Type of Advert":"Testimonial",
+    "Details":"Ulindelwe Yindyebo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.467715,-34.007508 ]
+    },
+    "properties": {
+    "Date":"33-04-22",
+    "Product":"Carlisle Curative Compound ",
+    "id":18,
+    "Name":"Mr. J.P. Daly",
+    "Address":"Wynberg, Cape",
+    "Type of Advert":"Testimonial",
+    "Details":"Ulindelwe Yindyebo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.41854,-33.921962 ]
+    },
+    "properties": {
+    "Date":"33-04-22",
+    "Product":"Carlisle Curative Compound ",
+    "id":19,
+    "Name":"Mrs. H. Fick",
+    "Address":"Long Street, Cape Town",
+    "Type of Advert":"Testimonial",
+    "Details":"Ulindelwe Yindyebo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.423616,-33.924984 ]
+    },
+    "properties": {
+    "Date":"33-05-13",
+    "Product":"Carlisle Curative Compound ",
+    "id":20,
+    "Name":"Mrs. P. Van Zyl",
+    "Address":"Darling Street, Cape Town",
+    "Type of Advert":"Testimonial",
+    "Details":"A New Lease of Life"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.780507,-26.087944 ]
+    },
+    "properties": {
+    "Date":"33-05-13",
+    "Product":"Carlisle Curative Compound ",
+    "id":21,
+    "Name":"H. Manning",
+    "Address":"Box 111 Krugersdorp",
+    "Type of Advert":"Testimonial",
+    "Details":"A New Lease of Life"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.775241,-25.192423 ]
+    },
+    "properties": {
+    "Date":"33-07-08",
+    "Product":"Fleming Johnston, No. 1 Lokman Tablets",
+    "id":22,
+    "Name":"A Lady",
+    "Address":"Elaandslaagte",
+    "Type of Advert":"Testimonial",
+    "Details":"No. 1 Lokman Tablets"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.868561,-29.009843 ]
+    },
+    "properties": {
+    "Date":"33-07-08",
+    "Product":"Fleming Johnston, No. 2 Cough Linctus",
+    "id":23,
+    "Name":"Mrs. ---",
+    "Address":"Estcourt",
+    "Type of Advert":"Testimonial",
+    "Details":"No. 2 Cough Linctus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.022339,-26.203237 ]
+    },
+    "properties": {
+    "Date":"33-08-05",
+    "Product":"Carlisle Curative Compound ",
+    "id":24,
+    "Name":"Mrs. L.B. Webb",
+    "Address":"Mission College, Johannesburg",
+    "Type of Advert":"Testimonial",
+    "Details":"Baleka - Izifo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.978517,-26.175837 ]
+    },
+    "properties": {
+    "Date":"33-08-19",
+    "Product":"Geen & Richards Furniture",
+    "id":25,
+    "Name":"Mr. Elisha Lebuso",
+    "Address":"111 Gibson Street, Sophiatown, Johannesburg",
+    "Type of Advert":"Testimonial",
+    "Details":"Sleep Well at Night and the Day Will Not Be Difficult!"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.981484,-26.173977 ]
+    },
+    "properties": {
+    "Date":"33-08-23",
+    "Product":"Apex Hair Co.",
+    "id":26,
+    "Name":"Mrs. E. Garson",
+    "Address":"66a. Gold St., Johannesburg",
+    "Type of Advert":"Testimonial",
+    "Details":"Apex Hair Co."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.399365,-33.908974 ]
+    },
+    "properties": {
+    "Date":"33-09-30",
+    "Product":"Carlisle Curative Compound ",
+    "id":27,
+    "Name":"Mrs. S. Williams",
+    "Address":"Three Anchor Bay, C[ape] P[rovince]",
+    "Type of Advert":"Testimonial",
+    "Details":"Impilo ka C Yenyene!"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.19875,-26.243476 ]
+    },
+    "properties": {
+    "Date":"33-10-07",
+    "Product":"Carlisle Curative Compound ",
+    "id":28,
+    "Name":"Mrs. Isabella L. Brown",
+    "Address":"Glendover, P.O. Elsburg",
+    "Type of Advert":"Testimonial",
+    "Details":"Between you and Disease"
+    }
+  }
+]
+}

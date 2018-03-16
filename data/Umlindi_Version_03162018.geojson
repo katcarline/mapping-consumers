@@ -12,7 +12,6 @@
     "Product":"Ambrosia Tea",
     "id":0,
     "Name":"Mrs. Ethel Matole",
-    "Gender":"Female",
     "Address":"P.O. Southeyville, Lady Frere",
     "Type of Advert":"Prize",
     "Details":"Has been awarded the 91st Daily Teaset Prize in the Ambrosia Tea Word-Building Competition"
@@ -29,7 +28,6 @@
     "Product":"Ambrosia Tea",
     "id":1,
     "Name":"Mrs. A. Jane Geilitshana",
-    "Gender":"Female",
     "Address":"Mpenduza, Butterworth",
     "Type of Advert":"Prize",
     "Details":"Other Useful Prizes"
@@ -46,7 +44,6 @@
     "Product":"Ambrosia Tea",
     "id":2,
     "Name":"Mrs. Avis Matshikwe",
-    "Gender":"Female",
     "Address":"P.O. Pirie, King William's Town",
     "Type of Advert":"Prize",
     "Details":"Other Useful Prizes"
@@ -63,7 +60,6 @@
     "Product":"Ambrosia Tea",
     "id":3,
     "Name":"Mrs. H.W.D. Msila",
-    "Gender":"Female",
     "Address":"Mtanana, Kentani",
     "Type of Advert":"Prize",
     "Details":"Other Useful Prizes"
@@ -80,7 +76,6 @@
     "Product":"Ambrosia Tea",
     "id":4,
     "Name":"Mrs. Janet N. Ntisana",
-    "Gender":"Female",
     "Address":"C.o. Mrs. H. Louw, Butterworth",
     "Type of Advert":"Prize",
     "Details":"Other Useful Prizes"
@@ -97,7 +92,6 @@
     "Product":"Ambrosia Tea",
     "id":5,
     "Name":"Miss Nellie Ntlama",
-    "Gender":"Female",
     "Address":"Masele School, King William's Town",
     "Type of Advert":"Prize",
     "Details":"Other Useful Prizes"
@@ -114,7 +108,6 @@
     "Product":"Ambrosia Tea",
     "id":6,
     "Name":"Mrs. Minah Sipoyo",
-    "Gender":"Female",
     "Address":"P.O. Box 18, Indwe",
     "Type of Advert":"Prize",
     "Details":"Other Useful Prizes"
@@ -131,7 +124,6 @@
     "Product":"Ambrosia Tea",
     "id":7,
     "Name":"Mrs. Jessie Sonqishe",
-    "Gender":"Female",
     "Address":"Village No.5 P.O. Emgwali, via Stutterheim",
     "Type of Advert":"Prize",
     "Details":"Other Useful Prizes"
@@ -148,7 +140,6 @@
     "Product":"Ambrosia Tea",
     "id":8,
     "Name":"Mrs. N.S. Silinga",
-    "Gender":"Female",
     "Address":"P.O. Gqaga, via Clarkebury",
     "Type of Advert":"Prize",
     "Details":"Other Useful Prizes"
@@ -165,7 +156,6 @@
     "Product":"Ambrosia Tea",
     "id":9,
     "Name":"Mr. Milford Mgwigwi",
-    "Gender":"Male",
     "Address":"C.o. Mr. L.V. Wattrus, Comfimvaba",
     "Type of Advert":"Prize",
     "Details":"Other Useful Prizes"
@@ -182,7 +172,6 @@
     "Product":"Ambrosia Tea",
     "id":10,
     "Name":"Mrs. E.R. Nangu",
-    "Gender":"Female",
     "Address":"Xhorana Store, Elliotdale",
     "Type of Advert":"Prize",
     "Details":"Other Useful Prizes"
@@ -199,7 +188,6 @@
     "Product":"Ambrosia Tea",
     "id":11,
     "Name":"Mrs. Sophie Mzano",
-    "Gender":"Female",
     "Address":"C.o. Mrs. P.E. Kopke, Peddie",
     "Type of Advert":"Prize",
     "Details":"Other Useful Prizes"
@@ -216,7 +204,6 @@
     "Product":"Ambrosia Tea",
     "id":12,
     "Name":"Mrs. Henrietta Ngcetane",
-    "Gender":"Female",
     "Address":"Sulenkama Hospital, Qumbu",
     "Type of Advert":"Prize",
     "Details":"Other Useful Prizes"
@@ -233,7 +220,6 @@
     "Product":"Ambrosia Tea",
     "id":13,
     "Name":"Mrs. Marambana",
-    "Gender":"Female",
     "Address":"Peddie",
     "Type of Advert":"Testimonial",
     "Details":"Mrs. Marambana of Peddie believes that one of the most important things for African families is the IMPROVEMENT OF OUR HOMES. That is why Mrs. Marambana is the President of the Peddie Home Improvement Association"
@@ -250,7 +236,6 @@
     "Product":"Ambrosia Tea",
     "id":14,
     "Name":"Janet A.B. Ntisana",
-    "Gender":"Female",
     "Address":"Nonyembezi, E-Gcuwa",
     "Type of Advert":"Testimonial",
     "Details":"Ikhaya Elicocekileyo Neligcinwe Kakuhle liya Lonwabisa Usapho utsho U-Nkosk. Janet A.B. Ntisana"
@@ -267,7 +252,6 @@
     "Product":"Ambrosia Tea",
     "id":15,
     "Name":"Mrs. S. Hlaula",
-    "Gender":"Female",
     "Address":"Voyizana School, P.O. Sterkspruit",
     "Type of Advert":"Prize",
     "Details":"Here are Some of the Prize Winners in the Ambrosia Tea Competitions"
@@ -284,7 +268,6 @@
     "Product":"Ambrosia Tea",
     "id":16,
     "Name":"Mrs. Nombetu Ntisana",
-    "Gender":"Female",
     "Address":"c.o. Mrs. A.H. Louw, Mnyameni",
     "Type of Advert":"Prize",
     "Details":"Here are Some of the Prize Winners in the Ambrosia Tea Competitions"
@@ -301,7 +284,6 @@
     "Product":"Ambrosia Tea",
     "id":17,
     "Name":"Mrs. Annie Maseti",
-    "Gender":"Female",
     "Address":"Municipal Location, Indwe",
     "Type of Advert":"Prize",
     "Details":"Here are Some of the Prize Winners in the Ambrosia Tea Competitions"
@@ -318,7 +300,6 @@
     "Product":"Ambrosia Tea",
     "id":18,
     "Name":"Mrs. Sigwela",
-    "Gender":"Female",
     "Address":"Langanci Plantation. Cala",
     "Type of Advert":"Prize",
     "Details":"Here are Some of the Prize Winners in the Ambrosia Tea Competitions"
@@ -335,7 +316,6 @@
     "Product":"Ambrosia Tea",
     "id":19,
     "Name":"Miss Winnie Masiba",
-    "Gender":"Female",
     "Address":"Khambi Methodist School, Umtata",
     "Type of Advert":"Prize",
     "Details":"Here are Some of the Prize Winners in the Ambrosia Tea Competitions"
@@ -352,7 +332,6 @@
     "Product":"Ambrosia Tea",
     "id":20,
     "Name":"Mrs. Elda Ntsonkota",
-    "Gender":"Female",
     "Address":"Brownlee Mission, King William's Town",
     "Type of Advert":"Prize",
     "Details":"Here are Some of the Prize Winners in the Ambrosia Tea Competitions"
@@ -369,7 +348,6 @@
     "Product":"Ambrosia Tea",
     "id":21,
     "Name":"Miss Dorcas Jolobe",
-    "Gender":"Female",
     "Address":"Ngqanda, P.O. Lady Frere",
     "Type of Advert":"Prize",
     "Details":"Here are Some of the Prize Winners in the Ambrosia Tea Competitions"
@@ -386,265 +364,9 @@
     "Product":"Ambrosia Tea",
     "id":22,
     "Name":"Mrs. Houghton W.D. Msila",
-    "Gender":"Female",
     "Address":"Mthanana, Kentani",
     "Type of Advert":"Prize",
     "Details":"Here are Some of the Prize Winners in the Ambrosia Tea Competitions"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 27.86049,-32.994204 ]
-    },
-    "properties": {
-    "Date":"39-01-16",
-    "Product":"Ambrosia Tea",
-    "id":53,
-    "Name":"Mrs. Ntsonkota",
-    "Gender":"Female",
-    "Address":"Near to the City of East London",
-    "Type of Advert":"Testimonial",
-    "Details":"Do You Remember? Mrs. Ntsonkota, a popular & well-known headman's wife… recently said she had used Ambrosia Tea for 17 Years!"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 27.766067,-32.876334 ]
-    },
-    "properties": {
-    "Date":"38-05-16",
-    "Product":"Ambrosia Tea",
-    "id":54,
-    "Name":"Mrs. Ntsonkota",
-    "Gender":"Female",
-    "Address":"St. Luke's Mission, East London",
-    "Type of Advert":"Testimonial",
-    "Details":"Mrs. Ntsonkota Says, 'One Cannot Help Using Ambrosia Tea'"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 27.904592,-33.021262 ]
-    },
-    "properties": {
-    "Date":"38-05-16",
-    "Product":"Ambrosia Tea",
-    "id":55,
-    "Name":"Mrs. Ellen Tyamzashe",
-    "Gender":"Female",
-    "Address":"302 Church St., E. Bank Location, E[east] L[ondon]",
-    "Type of Advert":"Prize",
-    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 28.2995,-32.101353 ]
-    },
-    "properties": {
-    "Date":"38-05-16",
-    "Product":"Ambrosia Tea",
-    "id":56,
-    "Name":"Miss E. Sofute",
-    "Gender":"Female",
-    "Address":"c/o Messrs. F Richardson, Idutywa",
-    "Type of Advert":"Prize",
-    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 27.057163,-31.669935 ]
-    },
-    "properties": {
-    "Date":"38-05-16",
-    "Product":"Ambrosia Tea",
-    "id":57,
-    "Name":"Mrs. W.T. Mrwebi",
-    "Gender":"Female",
-    "Address":"P.O. Lady Frere",
-    "Type of Advert":"Prize",
-    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 27.955899,-32.218173 ]
-    },
-    "properties": {
-    "Date":"38-05-16",
-    "Product":"Ambrosia Tea",
-    "id":58,
-    "Name":"Miss R Kwali",
-    "Gender":"Female",
-    "Address":"c/o J.H. Bryant, Mbiza Sotre, Nqamakwe",
-    "Type of Advert":"Prize",
-    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 27.865421,-32.231974 ]
-    },
-    "properties": {
-    "Date":"38-05-16",
-    "Product":"Ambrosia Tea",
-    "id":59,
-    "Name":"Miss A. Mahlangeni",
-    "Gender":"Female",
-    "Address":"c/o Rev. Mphamba, Ndakana (B.P.C), Nqamakwe",
-    "Type of Advert":"Prize",
-    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 27.889539,-32.218578 ]
-    },
-    "properties": {
-    "Date":"38-05-16",
-    "Product":"Ambrosia Tea",
-    "id":60,
-    "Name":"Mr. T.M. Qaba",
-    "Gender":"Female",
-    "Address":"Ndakana Mission, Nqamakwe",
-    "Type of Advert":"Prize",
-    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 28.569828,-31.574262 ]
-    },
-    "properties": {
-    "Date":"38-05-16",
-    "Product":"Ambrosia Tea",
-    "id":61,
-    "Name":"Mrs. N. Silinga",
-    "Gender":"Female",
-    "Address":"Tabase Mission, Umtata",
-    "Type of Advert":"Prize",
-    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 27.183152,-32.64989 ]
-    },
-    "properties": {
-    "Date":"38-05-16",
-    "Product":"Ambrosia Tea",
-    "id":62,
-    "Name":"Miss C.C. Mashologu",
-    "Gender":"Female",
-    "Address":"St. Matthew's College, P.O. St Matthews",
-    "Type of Advert":"Prize",
-    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 27.039047,-31.92239 ]
-    },
-    "properties": {
-    "Date":"38-05-16",
-    "Product":"Ambrosia Tea",
-    "id":63,
-    "Name":"Mrs. F. Makhubalo",
-    "Gender":"Female",
-    "Address":"Klien [Klein] Booi School, P.O. Machibini, Queenstown",
-    "Type of Advert":"Prize",
-    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 26.881649,-31.899909 ]
-    },
-    "properties": {
-    "Date":"38-05-16",
-    "Product":"Ambrosia Tea",
-    "id":64,
-    "Name":"Mrs. M. Mfenyana",
-    "Gender":"Female",
-    "Address":"Upper Machibini, Queenstown",
-    "Type of Advert":"Prize",
-    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 27.882154,-33.00919 ]
-    },
-    "properties": {
-    "Date":"38-05-16",
-    "Product":"Ambrosia Tea",
-    "id":65,
-    "Name":"Miss E. Mazwi",
-    "Gender":"Female",
-    "Address":"383 Main St., East Bank Location, East London",
-    "Type of Advert":"Prize",
-    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 28.578562,-31.572624 ]
-    },
-    "properties": {
-    "Date":"38-05-16",
-    "Product":"Ambrosia Tea",
-    "id":66,
-    "Name":"Mrs. D. Silimela",
-    "Gender":"Female",
-    "Address":"Tabase Mission, Umtata",
-    "Type of Advert":"Prize",
-    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 28.332517,-32.035892 ]
-    },
-    "properties": {
-    "Date":"38-05-16",
-    "Product":"Ambrosia Tea",
-    "id":67,
-    "Name":"Mr. D. Jekeni",
-    "Gender":"Male",
-    "Address":"c/o Mr. C.L. Geach, Colosa Store, Idutywa",
-    "Type of Advert":"Prize",
-    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
     }
   },
   {
@@ -658,7 +380,6 @@
     "Product":"Kowie Medicines",
     "id":23,
     "Name":"Mr. Hamilton Ngwendze",
-    "Gender":"Male",
     "Address":"P.O. Box Old Morley, Mqanduli",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -675,7 +396,6 @@
     "Product":"Kowie Medicines",
     "id":24,
     "Name":"Mrs. P.W. Dana",
-    "Gender":"Female",
     "Address":"C/o J.R. de Wet, Esq. P.O. Ncora, Cofimvaba",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -692,7 +412,6 @@
     "Product":"Kowie Medicines",
     "id":25,
     "Name":"Mrs. Elsie Jordan",
-    "Gender":"Female",
     "Address":"c/o Swane Ridge P.O. Ntlenzi",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -709,7 +428,6 @@
     "Product":"Kowie Medicines",
     "id":26,
     "Name":"Mr. J.S. Rummie ",
-    "Gender":"Male",
     "Address":"P.O. Box 23 Cradock C.P.",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -726,7 +444,6 @@
     "Product":"Kowie Medicines",
     "id":27,
     "Name":"Mrs. H.E.N. Gijana",
-    "Gender":"Female",
     "Address":"Upper Chatha, Keiskama Hoek",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -743,7 +460,6 @@
     "Product":"Kowie Medicines",
     "id":28,
     "Name":"Mr. B.N. Ndinisa",
-    "Gender":"Male",
     "Address":"Mpuluse Siding, Idutywa",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -760,7 +476,6 @@
     "Product":"Kowie Medicines",
     "id":29,
     "Name":"Miss G.A. Mhlauli",
-    "Gender":"Female",
     "Address":"Manzana School, P.O. Engcobo",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -777,7 +492,6 @@
     "Product":"Kowie Medicines",
     "id":30,
     "Name":"Mrs. C.C. Mahlahla ",
-    "Gender":"Female",
     "Address":"P.O. Baziya, Umtata",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -794,7 +508,6 @@
     "Product":"Kowie Medicines",
     "id":31,
     "Name":"Mr. G.S. Qusheka",
-    "Gender":"Male",
     "Address":"c/o Mr. J.H. Beckermann P.O. Darabe",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -811,7 +524,6 @@
     "Product":"Kowie Medicines",
     "id":32,
     "Name":"Mr. Ashby P. Ka Mda",
-    "Gender":"Male",
     "Address":"Lower Telle Location, P.O. Palmietfontein, Herschel",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -828,7 +540,6 @@
     "Product":"Kowie Medicines",
     "id":33,
     "Name":"Mrs. Maria F. Swana",
-    "Gender":"Female",
     "Address":"Mhlanga School, Flagstaff",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -845,7 +556,6 @@
     "Product":"Kowie Medicines",
     "id":34,
     "Name":"Mr. Arnold Duze",
-    "Gender":"Male",
     "Address":"Gernet Farm, P.O. Emgwali",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -862,7 +572,6 @@
     "Product":"Kowie Medicines",
     "id":35,
     "Name":"Mrs. Elizabeth Hlongwana",
-    "Gender":"Female",
     "Address":"Mtukukazi Store, P.O. Tabankulu",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -879,7 +588,6 @@
     "Product":"Kowie Medicines",
     "id":36,
     "Name":"Mr. D.W.J. Dlwati",
-    "Gender":"Male",
     "Address":"Emkanzi E.C. Sch. C.o. E. Engling Esq P.O. Engcobo",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -896,7 +604,6 @@
     "Product":"Kowie Medicines",
     "id":37,
     "Name":"Mrs. E.A.N. Barnes",
-    "Gender":"Female",
     "Address":"c/o R.L. Harrison. Esq. Teko Springs Butterworth",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -913,7 +620,6 @@
     "Product":"Kowie Medicines",
     "id":38,
     "Name":"Mrs. Nomanage Limani",
-    "Gender":"Female",
     "Address":"C/o J. McGill Esq. P.O. Ncora, Cofimvaba",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -930,7 +636,6 @@
     "Product":"Kowie Medicines",
     "id":39,
     "Name":"Mr. Enoch H. Ntingi",
-    "Gender":"Male",
     "Address":"c/o Mrs. A.T. Sharpley, Mpame, Old Morley",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -947,7 +652,6 @@
     "Product":"Kowie Medicines",
     "id":40,
     "Name":"Miss Eunice Kuku Mgudlwa",
-    "Gender":"Female",
     "Address":"C/o J. McGill Esq. P.O. Ncora, Cofimvaba",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -964,7 +668,6 @@
     "Product":"Kowie Medicines",
     "id":41,
     "Name":"Mr. Germond Ciliza",
-    "Gender":"Male",
     "Address":"P.O. Clarkebury",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -981,7 +684,6 @@
     "Product":"Kowie Medicines",
     "id":42,
     "Name":"Mrs. B. Nomadolo",
-    "Gender":"Female",
     "Address":"Northern Line Works, Buxton, P.O. Norlim, Via Taungs",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -998,7 +700,6 @@
     "Product":"Kowie Medicines",
     "id":43,
     "Name":"Mrs. Lydia Ndawo",
-    "Gender":"Female",
     "Address":"P.O. Sigoga, Matatiele",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -1015,7 +716,6 @@
     "Product":"Kowie Medicines",
     "id":44,
     "Name":"Mr. C.H. Kula",
-    "Gender":"Male",
     "Address":"P.O. Oak Grove, Via Imvani",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -1032,7 +732,6 @@
     "Product":"Kowie Medicines",
     "id":45,
     "Name":"Mr. A.M. Gwele",
-    "Gender":"Male",
     "Address":"C.M.R. Cons. Reef, Johannesburg",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -1049,7 +748,6 @@
     "Product":"Kowie Medicines",
     "id":46,
     "Name":"Miss S.N. Mzamo",
-    "Gender":"Female",
     "Address":"c/o P.E. Kopke, Esq. Woolridge, Peddie",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -1066,7 +764,6 @@
     "Product":"Kowie Medicines",
     "id":47,
     "Name":"Mr. Allison Mayekiso",
-    "Gender":"Male",
     "Address":"c/o J.K. Sicatsha, Esq., Mncotsho Location, Berlin",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -1083,7 +780,6 @@
     "Product":"Kowie Medicines",
     "id":48,
     "Name":"Mr. D.D.P. Lukashe",
-    "Gender":"Male",
     "Address":"P.O. Box 86 Uitenhage",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -1100,7 +796,6 @@
     "Product":"Kowie Medicines",
     "id":49,
     "Name":"Mrs. J.A. Tena",
-    "Gender":"Female",
     "Address":"P.O. Alexandria",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -1117,7 +812,6 @@
     "Product":"Kowie Medicines",
     "id":50,
     "Name":"Mr. Austin Mkhefa",
-    "Gender":"Male",
     "Address":"Upper Machibini, Queenstown",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -1134,7 +828,6 @@
     "Product":"Kowie Medicines",
     "id":51,
     "Name":"Mr. Ruthven Hani",
-    "Gender":"Male",
     "Address":"c/o Gordon Alfred, Esq., Kemptson Rd., Korsten, P.E.",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
@@ -1151,10 +844,249 @@
     "Product":"Kowie Medicines",
     "id":52,
     "Name":"Mr. Surgeon Mpehlo",
-    "Gender":"Male",
     "Address":"Wartburg School, Toise River",
     "Type of Advert":"Prize",
     "Details":"Isiphumo Sogqatso Lwamayeza O-Mtwa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.86049,-32.994204 ]
+    },
+    "properties": {
+    "Date":"39-01-16",
+    "Product":"Ambrosia Tea",
+    "id":53,
+    "Name":"Mrs. Ntsonkota",
+    "Address":"Near to the City of East London",
+    "Type of Advert":"Testimonial",
+    "Details":"Do You Remember? Mrs. Ntsonkota, a popular & well-known headman's wife… recently said she had used Ambrosia Tea for 17 Years!"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.766067,-32.876334 ]
+    },
+    "properties": {
+    "Date":"38-05-16",
+    "Product":"Ambrosia Tea",
+    "id":54,
+    "Name":"Mrs. Ntsonkota",
+    "Address":"St. Luke's Mission, East London",
+    "Type of Advert":"Testimonial",
+    "Details":"Mrs. Ntsonkota Says, 'One Cannot Help Using Ambrosia Tea'"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.904592,-33.021262 ]
+    },
+    "properties": {
+    "Date":"38-05-16",
+    "Product":"Ambrosia Tea",
+    "id":55,
+    "Name":"Mrs. Ellen Tyamzashe",
+    "Address":"302 Church St., E. Bank Location, E[east] L[ondon]",
+    "Type of Advert":"Prize",
+    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.2995,-32.101353 ]
+    },
+    "properties": {
+    "Date":"38-05-16",
+    "Product":"Ambrosia Tea",
+    "id":56,
+    "Name":"Miss E. Sofute",
+    "Address":"c/o Messrs. F Richardson, Idutywa",
+    "Type of Advert":"Prize",
+    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.057163,-31.669935 ]
+    },
+    "properties": {
+    "Date":"38-05-16",
+    "Product":"Ambrosia Tea",
+    "id":57,
+    "Name":"Mrs. W.T. Mrwebi",
+    "Address":"P.O. Lady Frere",
+    "Type of Advert":"Prize",
+    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.955899,-32.218173 ]
+    },
+    "properties": {
+    "Date":"38-05-16",
+    "Product":"Ambrosia Tea",
+    "id":58,
+    "Name":"Miss R Kwali",
+    "Address":"c/o J.H. Bryant, Mbiza Sotre, Nqamakwe",
+    "Type of Advert":"Prize",
+    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.865421,-32.231974 ]
+    },
+    "properties": {
+    "Date":"38-05-16",
+    "Product":"Ambrosia Tea",
+    "id":59,
+    "Name":"Miss A. Mahlangeni",
+    "Address":"c/o Rev. Mphamba, Ndakana (B.P.C), Nqamakwe",
+    "Type of Advert":"Prize",
+    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.889539,-32.218578 ]
+    },
+    "properties": {
+    "Date":"38-05-16",
+    "Product":"Ambrosia Tea",
+    "id":60,
+    "Name":"Mr. T.M. Qaba",
+    "Address":"Ndakana Mission, Nqamakwe",
+    "Type of Advert":"Prize",
+    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.569828,-31.574262 ]
+    },
+    "properties": {
+    "Date":"38-05-16",
+    "Product":"Ambrosia Tea",
+    "id":61,
+    "Name":"Mrs. N. Silinga",
+    "Address":"Tabase Mission, Umtata",
+    "Type of Advert":"Prize",
+    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.183152,-32.64989 ]
+    },
+    "properties": {
+    "Date":"38-05-16",
+    "Product":"Ambrosia Tea",
+    "id":62,
+    "Name":"Miss C.C. Mashologu",
+    "Address":"St. Matthew's College, P.O. St Matthews",
+    "Type of Advert":"Prize",
+    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.039047,-31.92239 ]
+    },
+    "properties": {
+    "Date":"38-05-16",
+    "Product":"Ambrosia Tea",
+    "id":63,
+    "Name":"Mrs. F. Makhubalo",
+    "Address":"Klien [Klein] Booi School, P.O. Machibini, Queenstown",
+    "Type of Advert":"Prize",
+    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.881649,-31.899909 ]
+    },
+    "properties": {
+    "Date":"38-05-16",
+    "Product":"Ambrosia Tea",
+    "id":64,
+    "Name":"Mrs. M. Mfenyana",
+    "Address":"Upper Machibini, Queenstown",
+    "Type of Advert":"Prize",
+    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.882154,-33.00919 ]
+    },
+    "properties": {
+    "Date":"38-05-16",
+    "Product":"Ambrosia Tea",
+    "id":65,
+    "Name":"Miss E. Mazwi",
+    "Address":"383 Main St., East Bank Location, East London",
+    "Type of Advert":"Prize",
+    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.578562,-31.572624 ]
+    },
+    "properties": {
+    "Date":"38-05-16",
+    "Product":"Ambrosia Tea",
+    "id":66,
+    "Name":"Mrs. D. Silimela",
+    "Address":"Tabase Mission, Umtata",
+    "Type of Advert":"Prize",
+    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.332517,-32.035892 ]
+    },
+    "properties": {
+    "Date":"38-05-16",
+    "Product":"Ambrosia Tea",
+    "id":67,
+    "Name":"Mr. D. Jekeni",
+    "Address":"c/o Mr. C.L. Geach, Colosa Store, Idutywa",
+    "Type of Advert":"Prize",
+    "Details":"Ambrosia Tea is DEMANDED by Progressive and Intelligent People"
     }
   }
 ]

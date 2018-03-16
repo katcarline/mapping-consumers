@@ -12,6 +12,7 @@
     "Product":"Parton's Purifying Pills",
     "id":0,
     "Name":"Mnumzana Jackson Heke",
+    "Gender":"Male",
     "Address":"c/o Mr. F. Reabow Chipinga, S. Rhodesia",
     "Type of Advert":"Testimonial",
     "Details":"Igazi Elicocekileyo Nemitambo Eyomeleleyo"
@@ -28,6 +29,7 @@
     "Product":"Parton's Purifying Pills",
     "id":1,
     "Name":"E.J. Tshanga",
+    "Gender":"Unknown",
     "Address":"c/o T.F. Piccione, Esq., P.O. Umfolozi, Natal",
     "Type of Advert":"Testimonial",
     "Details":"Igazi Elicocekileyo Nemitambo Eyomeleleyo"
@@ -44,6 +46,7 @@
     "Product":"Feluna Pills",
     "id":2,
     "Name":"Ezekiel Nkosi",
+    "Gender":"Male",
     "Address":"P.O. Karino, Transvaal",
     "Type of Advert":"Testimonial",
     "Details":"Wayefuna Kubuyiswe Ikazi Lake"
@@ -60,6 +63,7 @@
     "Product":"Phosferine",
     "id":3,
     "Name":"Mr. J.D. Seboka",
+    "Gender":"Male",
     "Address":"109 Orlando Township",
     "Type of Advert":"Testimonial",
     "Details":"At the Age of 60 Mr. Seboka Works Like a Young Man"
@@ -76,6 +80,7 @@
     "Product":"Feluna Pills",
     "id":4,
     "Name":"Mr. Luka Dhlamini",
+    "Gender":"Male",
     "Address":"Cash Store, P.O. Willow Grange, Natal",
     "Type of Advert":"Testimonial",
     "Details":"Bekwonakelepi Ku Mrs. Dhlamini Na?"
@@ -92,6 +97,7 @@
     "Product":"Clermont Township",
     "id":5,
     "Name":"Mr. Solomon Sibisi",
+    "Gender":"Male",
     "Address":"Erf No. 1158, Township of Clermont, Durban",
     "Type of Advert":"Testimonial",
     "Details":"Clermont Township - Fac-Simile of First-Transfer"
@@ -108,6 +114,7 @@
     "Product":"Carlisle Curative Compound ",
     "id":13,
     "Name":"Mrs. Francina J. Smit",
+    "Gender":"Female",
     "Address":"Onbekend No. 226 District Pretoria",
     "Type of Advert":"Testimonial",
     "Details":"Very Interested? YES, we know you will be, in Carlisle Curative Compound, if you learn of its wonderful cures"
@@ -124,6 +131,7 @@
     "Product":"Carlisle Curative Compound ",
     "id":14,
     "Name":"Mrs. J. Williams",
+    "Gender":"Female",
     "Address":"Three Anchor Bay, C[ape] P[rovince]",
     "Type of Advert":"Testimonial",
     "Details":"Very Interested? YES, we know you will be, in Carlisle Curative Compound, if you learn of its wonderful cures"
@@ -140,6 +148,7 @@
     "Product":"Carlisle Curative Compound ",
     "id":15,
     "Name":"Mr. J. Miller",
+    "Gender":"Male",
     "Address":"Salt River, C[ape] P[rovince]",
     "Type of Advert":"Testimonial",
     "Details":"Very Interested? YES, we know you will be, in Carlisle Curative Compound, if you learn of its wonderful cures"
@@ -156,6 +165,7 @@
     "Product":"Carlisle Curative Compound ",
     "id":16,
     "Name":"Mr. R.H. Ritter",
+    "Gender":"Male",
     "Address":"Krugersdorp",
     "Type of Advert":"Testimonial",
     "Details":"Ulindelwe Yindyebo"
@@ -172,6 +182,7 @@
     "Product":"Carlisle Curative Compound ",
     "id":17,
     "Name":"Mrs. J.P.C. Meyer",
+    "Gender":"Female",
     "Address":"West Germiston",
     "Type of Advert":"Testimonial",
     "Details":"Ulindelwe Yindyebo"
@@ -188,6 +199,7 @@
     "Product":"Carlisle Curative Compound ",
     "id":18,
     "Name":"Mr. J.P. Daly",
+    "Gender":"Male",
     "Address":"Wynberg, Cape",
     "Type of Advert":"Testimonial",
     "Details":"Ulindelwe Yindyebo"
@@ -204,6 +216,7 @@
     "Product":"Carlisle Curative Compound ",
     "id":19,
     "Name":"Mrs. H. Fick",
+    "Gender":"Female",
     "Address":"Long Street, Cape Town",
     "Type of Advert":"Testimonial",
     "Details":"Ulindelwe Yindyebo"
@@ -220,6 +233,7 @@
     "Product":"Carlisle Curative Compound ",
     "id":20,
     "Name":"Mrs. P. Van Zyl",
+    "Gender":"Female",
     "Address":"Darling Street, Cape Town",
     "Type of Advert":"Testimonial",
     "Details":"A New Lease of Life"
@@ -236,6 +250,7 @@
     "Product":"Carlisle Curative Compound ",
     "id":21,
     "Name":"H. Manning",
+    "Gender":"Unknown",
     "Address":"Box 111 Krugersdorp",
     "Type of Advert":"Testimonial",
     "Details":"A New Lease of Life"
@@ -252,6 +267,7 @@
     "Product":"Fleming Johnston, No. 1 Lokman Tablets",
     "id":22,
     "Name":"A Lady",
+    "Gender":"Female",
     "Address":"Elaandslaagte",
     "Type of Advert":"Testimonial",
     "Details":"No. 1 Lokman Tablets"
@@ -268,6 +284,7 @@
     "Product":"Fleming Johnston, No. 2 Cough Linctus",
     "id":23,
     "Name":"Mrs. ---",
+    "Gender":"Female",
     "Address":"Estcourt",
     "Type of Advert":"Testimonial",
     "Details":"No. 2 Cough Linctus"
@@ -284,6 +301,7 @@
     "Product":"Carlisle Curative Compound ",
     "id":24,
     "Name":"Mrs. L.B. Webb",
+    "Gender":"Female",
     "Address":"Mission College, Johannesburg",
     "Type of Advert":"Testimonial",
     "Details":"Baleka - Izifo"
@@ -300,6 +318,7 @@
     "Product":"Geen & Richards Furniture",
     "id":25,
     "Name":"Mr. Elisha Lebuso",
+    "Gender":"Male",
     "Address":"111 Gibson Street, Sophiatown, Johannesburg",
     "Type of Advert":"Testimonial",
     "Details":"Sleep Well at Night and the Day Will Not Be Difficult!"
@@ -316,6 +335,7 @@
     "Product":"Apex Hair Co.",
     "id":26,
     "Name":"Mrs. E. Garson",
+    "Gender":"Female",
     "Address":"66a. Gold St., Johannesburg",
     "Type of Advert":"Testimonial",
     "Details":"Apex Hair Co."
@@ -332,6 +352,7 @@
     "Product":"Carlisle Curative Compound ",
     "id":27,
     "Name":"Mrs. S. Williams",
+    "Gender":"Female",
     "Address":"Three Anchor Bay, C[ape] P[rovince]",
     "Type of Advert":"Testimonial",
     "Details":"Impilo ka C Yenyene!"
@@ -348,9 +369,350 @@
     "Product":"Carlisle Curative Compound ",
     "id":28,
     "Name":"Mrs. Isabella L. Brown",
+    "Gender":"Female",
     "Address":"Glendover, P.O. Elsburg",
     "Type of Advert":"Testimonial",
     "Details":"Between you and Disease"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.501872,50.920833 ]
+    },
+    "properties": {
+    "Date":"34-03-31",
+    "Product":"Dr. William's Pink Pills",
+    "id":29,
+    "Name":"Nkosk. E.G. Spall",
+    "Gender":"Female",
+    "Address":"1 Ringwood Street, Totton, Southampton",
+    "Type of Advert":"Testimonial",
+    "Details":" "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.382708,51.51055 ]
+    },
+    "properties": {
+    "Date":"34-04-14",
+    "Product":"Dr. William's Pink Pills",
+    "id":30,
+    "Name":"Mrs. B. Waetzig",
+    "Gender":"Female",
+    "Address":"33 Warwick Rd., Southall, Middlesex",
+    "Type of Advert":"Testimonial",
+    "Details":"O Phela hantleka mora' dilemo lemo tsa ho kula"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.525434,-30.422178 ]
+    },
+    "properties": {
+    "Date":"34-04-14",
+    "Product":"Fleming Johnston, No. 14 Infant's Diarrhoa Mixture",
+    "id":31,
+    "Name":"Anonymous",
+    "Gender":"Unknown",
+    "Address":"Palmiefontien",
+    "Type of Advert":"Testimonial",
+    "Details":"Umkemisi Wabantsundu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.106053,-26.165775 ]
+    },
+    "properties": {
+    "Date":"34-04-14",
+    "Product":"Fleming Johnston, No. 36 Excelsior Gripe Cordial",
+    "id":32,
+    "Name":"Anonymous",
+    "Gender":"Unknown",
+    "Address":"Forbes' Reef Swaziland",
+    "Type of Advert":"Testimonial",
+    "Details":"Umkemisi Wabantsundu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.064126,-26.202222 ]
+    },
+    "properties": {
+    "Date":"34-04-21",
+    "Product":"Phosferine",
+    "id":33,
+    "Name":"Mr. P.D. Segale",
+    "Gender":"Male",
+    "Address":"16 Market Street, Johannesburg",
+    "Type of Advert":"Testimonial",
+    "Details":"Ke ikutlua ke phedile; Masika a ka a sebetsa hantee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.412059,51.883987 ]
+    },
+    "properties": {
+    "Date":"34-06-09",
+    "Product":"Dr. William's Pink Pills",
+    "id":34,
+    "Name":"Nkosk. J.F. Marhsall",
+    "Gender":"Female",
+    "Address":"3 Alder Crescent, Luton",
+    "Type of Advert":"Testimonial",
+    "Details":"Eseqedwe, Isifo Samatambo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.769716,52.524408 ]
+    },
+    "properties": {
+    "Date":"34-07-07",
+    "Product":"Dr. William's Pink Pills",
+    "id":35,
+    "Name":"Nkosk. J. Oldbury",
+    "Gender":"Female",
+    "Address":"29 Park Lane, Birmingham",
+    "Type of Advert":"Testimonial",
+    "Details":"Ebutaka Epele Amandla Engadli Engalali Ngoku Upile Ncam Ubulela Ipills Zika Dr. Williams"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.048428,-26.207624 ]
+    },
+    "properties": {
+    "Date":"34-09-15",
+    "Product":"Phosferine",
+    "id":36,
+    "Name":"Mr. P.D. Segale",
+    "Gender":"Male",
+    "Address":"134 Anderson St., Johannesburg",
+    "Type of Advert":"Testimonial",
+    "Details":"Prominent Bantu Man Praises Phosferine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.507587,-33.939338 ]
+    },
+    "properties": {
+    "Date":"34-09-29",
+    "Product":"Dr. Heinz Glandular Tablets",
+    "id":37,
+    "Name":"Nkosk. Elizabeth Hendricks",
+    "Gender":"Female",
+    "Address":"eKapa [Cape Town]",
+    "Type of Advert":"Testimonial",
+    "Details":"Impilo elungileyo kuwo onke amankazana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.605333,-33.952604 ]
+    },
+    "properties": {
+    "Date":"34-10-06",
+    "Product":"Virata the 10-Day Tonic Cure",
+    "id":38,
+    "Name":"A.E. Magaba",
+    "Gender":"Male",
+    "Address":"Union Rugby Football Club, Port Elizabeth",
+    "Type of Advert":"Testimonial",
+    "Details":"A LeMatla! A Phakisa! A Tletse Ho Khothala!"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.540536,-28.812482 ]
+    },
+    "properties": {
+    "Date":"34-10-20",
+    "Product":"Feluna Pills",
+    "id":39,
+    "Name":"Mr. Jeremiah Mazibuko",
+    "Gender":"Male",
+    "Address":"Poortje, P.O. Winterton, Natal",
+    "Type of Advert":"Testimonial",
+    "Details":"Umntana Ongekazalwa Upila Kunina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.997965,-26.178899 ]
+    },
+    "properties": {
+    "Date":"35-05-04",
+    "Product":"Ashton & Partons' Infants' Powders",
+    "id":40,
+    "Name":"Mrs. Victoria Dinwa",
+    "Gender":"Female",
+    "Address":"P.O. Box 2528 Johannesburg",
+    "Type of Advert":"Testimonial",
+    "Details":"Baby Greatly Improved in Health, says this African Mother"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.605333,-33.9527 ]
+    },
+    "properties": {
+    "Date":"35-05-04",
+    "Product":"Virata the 10-Day Tonic Cure",
+    "id":41,
+    "Name":"Wilson Nangu, Manager of Union Rugby Football Club",
+    "Gender":"Male",
+    "Address":"Union Rugby Football Club, Port Elizabeth",
+    "Type of Advert":"Testimonial",
+    "Details":"Bala seo Manager Le Captain Ea Libapali Tsena Tse Kaholimo Ba Se Buang Ka Virata"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.982296,-26.176464 ]
+    },
+    "properties": {
+    "Date":"35-05-04",
+    "Product":"Phosferine",
+    "id":42,
+    "Name":"Mr. Guybon B. Sinxo",
+    "Gender":"Male",
+    "Address":"62 Bertha St., Sophiatown, Johannesburg",
+    "Type of Advert":"Testimonial",
+    "Details":"Noted African Poet-Novelist Mr. Guybon B. Sinxo says, 'My Deepest Gratitude for Your Wonderful Tonic"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.246453,-26.23256 ]
+    },
+    "properties": {
+    "Date":"35-05-11",
+    "Product":"Woods' Great Pepermint Cure",
+    "id":43,
+    "Name":"Unkosikazi Sarah Madala",
+    "Gender":"Female",
+    "Address":"Stirtonville e Boksburg",
+    "Type of Advert":"Testimonial",
+    "Details":"Naku Okuthethwa Ngabantu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.962276,-26.176158 ]
+    },
+    "properties": {
+    "Date":"35-05-11",
+    "Product":"Woods' Great Pepermint Cure",
+    "id":44,
+    "Name":"Umnumzana Albert Mti",
+    "Gender":"Male",
+    "Address":"New Lands",
+    "Type of Advert":"Testimonial",
+    "Details":"Naku Okuthethwa Ngabantu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.903366,-26.269568 ]
+    },
+    "properties": {
+    "Date":"35-05-11",
+    "Product":"Ashton & Partons' Infants' Powders",
+    "id":45,
+    "Name":"Mrs. Rosina Matlala",
+    "Gender":"Female",
+    "Address":"Pimville Location, Johannesburg",
+    "Type of Advert":"Testimonial",
+    "Details":"Child Sleeps Soundly… never feverish"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.990999,-26.257099 ]
+    },
+    "properties": {
+    "Date":"35-05-18",
+    "Product":"Phosferine",
+    "id":46,
+    "Name":"Mr. Segale",
+    "Gender":"Male",
+    "Address":"Johannesburg",
+    "Type of Advert":"Testimonial",
+    "Details":"Hard Work Takes Away Strenght - Bring it Back with this Wonderful Medicine"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.036719,-26.191496 ]
+    },
+    "properties": {
+    "Date":"35-06-01",
+    "Product":"Feluna Pills",
+    "id":47,
+    "Name":"Mrs. Samuel Ndimande",
+    "Gender":"Female",
+    "Address":"Braamfontein, Transvaal",
+    "Type of Advert":"Testimonial",
+    "Details":"Umyeni Wake Uyakuvuya!"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.021355,-29.836656 ]
+    },
+    "properties": {
+    "Date":"35-06-01",
+    "Product":"Feluna Pills",
+    "id":48,
+    "Name":"Mrs. Elizabeth Gumede",
+    "Gender":"Female",
+    "Address":"Stamford Hill Road, Durban",
+    "Type of Advert":"Testimonial",
+    "Details":"Ba Reile Nguana Leima Ya "
     }
   }
 ]
