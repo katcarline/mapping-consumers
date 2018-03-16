@@ -426,10 +426,10 @@ var groupedOverlays = {
     "<img src='assets/img/Umlindi.png' width='24' height='28'>&nbsp;Umlindi": umlindiLayer,
     "<img src='assets/img/BantuWorld.png' width='24' height='28'>&nbsp;BantuWorld": BantuWorldLayer
   },
-  "Reference": {
+ /* "Reference": {
     "Boroughs": boroughs,
     "Subway Lines": subwayLines
-  }
+  } */
 };
 
 var layerControl = L.control.groupedLayers(baseLayers, groupedOverlays, {
