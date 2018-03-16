@@ -277,7 +277,7 @@ var BantuWorld = L.geoJson(null, {
         iconAnchor: [12, 28],
         popupAnchor: [0, -25]
       }),
-      title: feature.properties.NAME,
+      title: feature.properties.Name,
       riseOnHover: true
     });
   },
