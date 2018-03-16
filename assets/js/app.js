@@ -314,7 +314,7 @@ $.getJSON("data/BantuWorld.geojson", function (data) {
 map = L.map("map", {
   zoom: 6,
   center: [-28.905463, 24.448691],
-  layers: [cartoLight, boroughs, markerClusters, highlight],
+  layers: [cartoLight, boroughs, /*markerClusters,*/ highlight],
   zoomControl: false,
   attributionControl: false
 });
