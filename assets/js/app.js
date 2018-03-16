@@ -320,7 +320,7 @@ map = L.map("map", {
 });
 
 /* Layer control listeners that allow for a single markerClusters layer */
-map.on("overlayadd", function(e) {
+/* map.on("overlayadd", function(e) {
   if (e.layer === umlindiLayer) {
     markerClusters.addLayer(umlindi);
     syncSidebar();
@@ -340,7 +340,7 @@ map.on("overlayremove", function(e) {
     markerClusters.removeLayer(BantuWorld);
     syncSidebar();
   }
-});
+}); */
 
 /* Filter sidebar feature list to only show features in current map bounds */
 map.on("moveend", function (e) {
