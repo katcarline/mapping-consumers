@@ -14,7 +14,6 @@
     "Name":"Mnumzana Jackson Heke",
     "Gender":"Male",
     "Address":"c/o Mr. F. Reabow Chipinga, S. Rhodesia",
-    "AddressType":"Rural",
     "Type of Advert":"Testimonial",
     "Details":"Igazi Elicocekileyo Nemitambo Eyomeleleyo"
     }
@@ -32,7 +31,6 @@
     "Name":"E.J. Tshanga",
     "Gender":"Unknown",
     "Address":"c/o T.F. Piccione, Esq., P.O. Umfolozi, Natal",
-    "AddressType":"Rural",
     "Type of Advert":"Testimonial",
     "Details":"Igazi Elicocekileyo Nemitambo Eyomeleleyo"
     }
@@ -50,7 +48,6 @@
     "Name":"Ezekiel Nkosi",
     "Gender":"Male",
     "Address":"P.O. Karino, Transvaal",
-    "AddressType":"Rural",
     "Type of Advert":"Testimonial",
     "Details":"Wayefuna Kubuyiswe Ikazi Lake"
     }
@@ -68,7 +65,6 @@
     "Name":"Mr. J.D. Seboka",
     "Gender":"Male",
     "Address":"109 Orlando Township",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"At the Age of 60 Mr. Seboka Works Like a Young Man"
     }
@@ -86,7 +82,6 @@
     "Name":"Mr. Luka Dhlamini",
     "Gender":"Male",
     "Address":"Cash Store, P.O. Willow Grange, Natal",
-    "AddressType":"Rural",
     "Type of Advert":"Testimonial",
     "Details":"Bekwonakelepi Ku Mrs. Dhlamini Na?"
     }
@@ -104,7 +99,6 @@
     "Name":"Mr. Solomon Sibisi",
     "Gender":"Male",
     "Address":"Erf No. 1158, Township of Clermont, Durban",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Clermont Township - Fac-Simile of First-Transfer"
     }
@@ -122,7 +116,6 @@
     "Name":"Mrs. Francina J. Smit",
     "Gender":"Female",
     "Address":"Onbekend No. 226 District Pretoria",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Very Interested? YES, we know you will be, in Carlisle Curative Compound, if you learn of its wonderful cures"
     }
@@ -140,7 +133,6 @@
     "Name":"Mrs. J. Williams",
     "Gender":"Female",
     "Address":"Three Anchor Bay, C[ape] P[rovince]",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Very Interested? YES, we know you will be, in Carlisle Curative Compound, if you learn of its wonderful cures"
     }
@@ -158,7 +150,6 @@
     "Name":"Mr. J. Miller",
     "Gender":"Male",
     "Address":"Salt River, C[ape] P[rovince]",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Very Interested? YES, we know you will be, in Carlisle Curative Compound, if you learn of its wonderful cures"
     }
@@ -176,7 +167,6 @@
     "Name":"Mr. R.H. Ritter",
     "Gender":"Male",
     "Address":"Krugersdorp",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Ulindelwe Yindyebo"
     }
@@ -194,7 +184,6 @@
     "Name":"Mrs. J.P.C. Meyer",
     "Gender":"Female",
     "Address":"West Germiston",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Ulindelwe Yindyebo"
     }
@@ -212,7 +201,6 @@
     "Name":"Mr. J.P. Daly",
     "Gender":"Male",
     "Address":"Wynberg, Cape",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Ulindelwe Yindyebo"
     }
@@ -230,7 +218,6 @@
     "Name":"Mrs. H. Fick",
     "Gender":"Female",
     "Address":"Long Street, Cape Town",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Ulindelwe Yindyebo"
     }
@@ -248,7 +235,6 @@
     "Name":"Mrs. P. Van Zyl",
     "Gender":"Female",
     "Address":"Darling Street, Cape Town",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"A New Lease of Life"
     }
@@ -266,7 +252,6 @@
     "Name":"H. Manning",
     "Gender":"Unknown",
     "Address":"Box 111 Krugersdorp",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"A New Lease of Life"
     }
@@ -284,7 +269,6 @@
     "Name":"A Lady",
     "Gender":"Female",
     "Address":"Elaandslaagte",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"No. 1 Lokman Tablets"
     }
@@ -302,7 +286,6 @@
     "Name":"Mrs. ---",
     "Gender":"Female",
     "Address":"Estcourt",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"No. 2 Cough Linctus"
     }
@@ -320,7 +303,6 @@
     "Name":"Mrs. L.B. Webb",
     "Gender":"Female",
     "Address":"Mission College, Johannesburg",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Baleka - Izifo"
     }
@@ -338,7 +320,6 @@
     "Name":"Mr. Elisha Lebuso",
     "Gender":"Male",
     "Address":"111 Gibson Street, Sophiatown, Johannesburg",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Sleep Well at Night and the Day Will Not Be Difficult!"
     }
@@ -356,7 +337,6 @@
     "Name":"Mrs. E. Garson",
     "Gender":"Female",
     "Address":"66a. Gold St., Johannesburg",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Apex Hair Co."
     }
@@ -374,7 +354,6 @@
     "Name":"Mrs. S. Williams",
     "Gender":"Female",
     "Address":"Three Anchor Bay, C[ape] P[rovince]",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Impilo ka C Yenyene!"
     }
@@ -392,7 +371,6 @@
     "Name":"Mrs. Isabella L. Brown",
     "Gender":"Female",
     "Address":"Glendover, P.O. Elsburg",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Between you and Disease"
     }
@@ -410,7 +388,6 @@
     "Name":"Nkosk. E.G. Spall",
     "Gender":"Female",
     "Address":"1 Ringwood Street, Totton, Southampton",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":" "
     }
@@ -428,7 +405,6 @@
     "Name":"Mrs. B. Waetzig",
     "Gender":"Female",
     "Address":"33 Warwick Rd., Southall, Middlesex",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"O Phela hantleka mora' dilemo lemo tsa ho kula"
     }
@@ -446,7 +422,6 @@
     "Name":"Anonymous",
     "Gender":"Unknown",
     "Address":"Palmiefontien",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Umkemisi Wabantsundu"
     }
@@ -464,7 +439,6 @@
     "Name":"Anonymous",
     "Gender":"Unknown",
     "Address":"Forbes' Reef Swaziland",
-    "AddressType":"Rural",
     "Type of Advert":"Testimonial",
     "Details":"Umkemisi Wabantsundu"
     }
@@ -482,7 +456,6 @@
     "Name":"Mr. P.D. Segale",
     "Gender":"Male",
     "Address":"16 Market Street, Johannesburg",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Ke ikutlua ke phedile; Masika a ka a sebetsa hantee"
     }
@@ -500,7 +473,6 @@
     "Name":"Nkosk. J.F. Marhsall",
     "Gender":"Female",
     "Address":"3 Alder Crescent, Luton",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Eseqedwe, Isifo Samatambo"
     }
@@ -518,7 +490,6 @@
     "Name":"Nkosk. J. Oldbury",
     "Gender":"Female",
     "Address":"29 Park Lane, Birmingham",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Ebutaka Epele Amandla Engadli Engalali Ngoku Upile Ncam Ubulela Ipills Zika Dr. Williams"
     }
@@ -536,7 +507,6 @@
     "Name":"Mr. P.D. Segale",
     "Gender":"Male",
     "Address":"134 Anderson St., Johannesburg",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Prominent Bantu Man Praises Phosferine"
     }
@@ -554,7 +524,6 @@
     "Name":"Nkosk. Elizabeth Hendricks",
     "Gender":"Female",
     "Address":"eKapa [Cape Town]",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Impilo elungileyo kuwo onke amankazana"
     }
@@ -572,7 +541,6 @@
     "Name":"A.E. Magaba",
     "Gender":"Male",
     "Address":"Union Rugby Football Club, Port Elizabeth",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"A LeMatla! A Phakisa! A Tletse Ho Khothala!"
     }
@@ -590,7 +558,6 @@
     "Name":"Mr. Jeremiah Mazibuko",
     "Gender":"Male",
     "Address":"Poortje, P.O. Winterton, Natal",
-    "AddressType":"Rural",
     "Type of Advert":"Testimonial",
     "Details":"Umntana Ongekazalwa Upila Kunina"
     }
@@ -608,7 +575,6 @@
     "Name":"Mrs. Victoria Dinwa",
     "Gender":"Female",
     "Address":"P.O. Box 2528 Johannesburg",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Baby Greatly Improved in Health, says this African Mother"
     }
@@ -626,7 +592,6 @@
     "Name":"Wilson Nangu, Manager of Union Rugby Football Club",
     "Gender":"Male",
     "Address":"Union Rugby Football Club, Port Elizabeth",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Bala seo Manager Le Captain Ea Libapali Tsena Tse Kaholimo Ba Se Buang Ka Virata"
     }
@@ -644,7 +609,6 @@
     "Name":"Mr. Guybon B. Sinxo",
     "Gender":"Male",
     "Address":"62 Bertha St., Sophiatown, Johannesburg",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Noted African Poet-Novelist Mr. Guybon B. Sinxo says, 'My Deepest Gratitude for Your Wonderful Tonic"
     }
@@ -662,7 +626,6 @@
     "Name":"Unkosikazi Sarah Madala",
     "Gender":"Female",
     "Address":"Stirtonville e Boksburg",
-    "AddressType":"Rural",
     "Type of Advert":"Testimonial",
     "Details":"Naku Okuthethwa Ngabantu"
     }
@@ -680,7 +643,6 @@
     "Name":"Umnumzana Albert Mti",
     "Gender":"Male",
     "Address":"New Lands",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Naku Okuthethwa Ngabantu"
     }
@@ -698,7 +660,6 @@
     "Name":"Mrs. Rosina Matlala",
     "Gender":"Female",
     "Address":"Pimville Location, Johannesburg",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Child Sleeps Soundly… never feverish"
     }
@@ -716,7 +677,6 @@
     "Name":"Mr. Segale",
     "Gender":"Male",
     "Address":"Johannesburg",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Hard Work Takes Away Strenght - Bring it Back with this Wonderful Medicine"
     }
@@ -734,7 +694,6 @@
     "Name":"Mrs. Samuel Ndimande",
     "Gender":"Female",
     "Address":"Braamfontein, Transvaal",
-    "AddressType":"Rural",
     "Type of Advert":"Testimonial",
     "Details":"Umyeni Wake Uyakuvuya!"
     }
@@ -752,7 +711,6 @@
     "Name":"Mrs. Elizabeth Gumede",
     "Gender":"Female",
     "Address":"Stamford Hill Road, Durban",
-    "AddressType":"Urban",
     "Type of Advert":"Testimonial",
     "Details":"Ba Reile Nguana Leima Ya "
     }

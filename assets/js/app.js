@@ -285,7 +285,7 @@ var BantuWorld = L.geoJson(null, {
     /* Museums Data filtered out for until I replact them with Bantu World geojson file */ 
     
   onEachFeature: function (feature, layer) {
-    if (feature.properties) {
+    if (feature.properties.AddressType="Urban") {
       var content = "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Date</th><td>" + feature.properties.Date + "</td></tr>" + "<tr><th>Product</th><td>" + feature.properties.Product + "</td></tr>" + "<tr><th>Name</th><td>" + feature.properties.Name + "</td></tr>" + "</td></tr>" + "<tr><th>Address</th><td>" + feature.properties.Address + "<tr><th>Gender</th><td>" + feature.properties.Gender + "</td></tr>" + "<tr><th>Details</th><td>" + feature.properties.Details + "</a></td></tr>" + "<table>";
       layer.on({
         click: function (e) {
@@ -296,6 +296,26 @@ var BantuWorld = L.geoJson(null, {
         }
       });
       $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><img width="16" height="18" src="assets/img/BantuWorld.png"></td><td class="feature-name">' + layer.feature.properties.Product + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
+      BantuWorldSearch.push({
+        name: layer.feature.properties.Name,
+        address: layer.feature.properties.Product,
+        source: "BantuWorld",
+        id: L.stamp(layer),
+        lat: layer.feature.geometry.coordinates[1],
+        lng: layer.feature.geometry.coordinates[0]
+      });
+    }
+    else if (feature.properties.AddressType="Rural")  {
+      var content = "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Date</th><td>" + feature.properties.Date + "</td></tr>" + "<tr><th>Product</th><td>" + feature.properties.Product + "</td></tr>" + "<tr><th>Name</th><td>" + feature.properties.Name + "</td></tr>" + "</td></tr>" + "<tr><th>Address</th><td>" + feature.properties.Address + "<tr><th>Gender</th><td>" + feature.properties.Gender + "</td></tr>" + "<tr><th>Details</th><td>" + feature.properties.Details + "</a></td></tr>" + "<table>";
+      layer.on({
+        click: function (e) {
+          $("#feature-title").html(feature.properties.Name);
+          $("#feature-info").html(content);
+          $("#featureModal").modal("show");
+          highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], highlightStyle));
+        }
+      });
+      $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><img width="16" height="18" src="assets/img/BantuWorldR.png"></td><td class="feature-name">' + layer.feature.properties.Product + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
       BantuWorldSearch.push({
         name: layer.feature.properties.Name,
         address: layer.feature.properties.Product,
