@@ -277,7 +277,7 @@ var BantuWorld = L.geoJson(null, {
           }
           else if (feature.properties.AddressType="Rural") {
           iconUrl: "assets/img/BantuWorldR.png"
-      },
+      }
         iconSize: [24, 28],
         iconAnchor: [12, 28],
         popupAnchor: [0, -25]
