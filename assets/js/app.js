@@ -305,7 +305,7 @@ var BantuWorld = L.geoJson(null, {
         lng: layer.feature.geometry.coordinates[0]
       });
     }
-    else if (feature.properties.AddressType="Rural")  {
+    else (feature.properties.AddressType="Rural")  {
       var content = "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Date</th><td>" + feature.properties.Date + "</td></tr>" + "<tr><th>Product</th><td>" + feature.properties.Product + "</td></tr>" + "<tr><th>Name</th><td>" + feature.properties.Name + "</td></tr>" + "</td></tr>" + "<tr><th>Address</th><td>" + feature.properties.Address + "<tr><th>Gender</th><td>" + feature.properties.Gender + "</td></tr>" + "<tr><th>Details</th><td>" + feature.properties.Details + "</a></td></tr>" + "<table>";
       layer.on({
         click: function (e) {
