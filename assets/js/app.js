@@ -275,7 +275,7 @@ var BantuWorld = L.geoJson(null, {
           if (feature.properties.AddressType="Urban") {
         iconUrl: "assets/img/BantuWorld.png"
           }
-          else if (feature.properties.AddressType="Rural") {
+          else (feature.properties.AddressType="Rural") {
           iconUrl: "assets/img/BantuWorldR.png"
       }
         iconSize: [24, 28],
