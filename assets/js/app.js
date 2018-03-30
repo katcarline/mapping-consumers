@@ -272,7 +272,7 @@ var BantuWorld = L.geoJson(null, {
   pointToLayer: function (feature, latlng) {
     return L.marker(latlng, {
       icon: L.icon({
-        iconUrl: "assets/img/BantuWorld.png",
+        iconUrl: "assets/img/BantuWorldR.png",
         iconSize: [24, 28],
         iconAnchor: [12, 28],
         popupAnchor: [0, -25]
