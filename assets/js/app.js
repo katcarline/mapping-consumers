@@ -272,7 +272,7 @@ var BantuWorld = L.geoJson(null, {
   pointToLayer: function (feature, latlng) {
     return L.marker(latlng, {
       icon: L.icon({
-        iconUrl: "assets/img/BantuWorldR.png",
+        iconUrl: "assets/img/BantuWorld.png",
         iconSize: [24, 28],
         iconAnchor: [12, 28],
         popupAnchor: [0, -25]
@@ -315,7 +315,7 @@ var BantuWorld = L.geoJson(null, {
           highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], highlightStyle));
         }
       });
-      $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><img width="16" height="18" src="assets/img/BantuWorldR.png"></td><td class="feature-name">' + layer.feature.properties.Product + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
+      $("#feature-list tbody").append('<tr class="feature-row" id="' + L.stamp(layer) + '" lat="' + layer.getLatLng().lat + '" lng="' + layer.getLatLng().lng + '"><td style="vertical-align: middle;"><img width="16" height="18" src="assets/img/BantuWorld.png"></td><td class="feature-name">' + layer.feature.properties.Product + '</td><td style="vertical-align: middle;"><i class="fa fa-chevron-right pull-right"></i></td></tr>');
       BantuWorldSearch.push({
         name: layer.feature.properties.Name,
         address: layer.feature.properties.Product,
