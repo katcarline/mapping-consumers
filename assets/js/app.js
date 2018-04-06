@@ -216,7 +216,7 @@ $.getJSON("data/subways.geojson", function (data) {
 /* Single marker cluster layer to hold all clusters */
 var markerClusters = new L.MarkerClusterGroup({
   spiderfyOnMaxZoom: true,
-  showCoverageOnHover: false,
+  showCoverageOnHover: true,
   zoomToBoundsOnClick: true,
   disableClusteringAtZoom: 16
 });
