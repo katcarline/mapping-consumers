@@ -218,7 +218,7 @@ var markerClusters = new L.MarkerClusterGroup({
   spiderfyOnMaxZoom: true,
   showCoverageOnHover: true,
   zoomToBoundsOnClick: true,
-  disableClusteringAtZoom: 7
+  disableClusteringAtZoom: 9
 });
 
 /* Empty layer placeholder to add to layer control for listening when to add/remove theaters to markerClusters layer */
