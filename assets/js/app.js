@@ -217,8 +217,8 @@ $.getJSON("data/subways.geojson", function (data) {
 var markerClusters = new L.MarkerClusterGroup({
   spiderfyOnMaxZoom: true,
   showCoverageOnHover: true,
-  zoomToBoundsOnClick: false,
-  disableClusteringAtZoom: 16
+  zoomToBoundsOnClick: true,
+  disableClusteringAtZoom: 5
 });
 
 /* Empty layer placeholder to add to layer control for listening when to add/remove theaters to markerClusters layer */
