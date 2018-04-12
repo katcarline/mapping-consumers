@@ -523,7 +523,7 @@ $(document).one("ajaxStop", function () {
       filter: function (data) {
         return $.map(data.geonames, function (result) {
           return {
-            name: result.name + ", " + result.adminCode1,
+            name: result.product + ", " + result.adminCode1,
             lat: result.lat,
             lng: result.lng,
             source: "GeoNames"
