@@ -523,7 +523,7 @@ $(document).one("ajaxStop", function () {
       filter: function (data) {
         return $.map(data.geonames, function (result) {
           return {
-            name: result.product + ", " + result.adminCode1,
+            product: result.product + ", " + result.adminCode1,
             lat: result.lat,
             lng: result.lng,
             source: "GeoNames"
@@ -577,7 +577,7 @@ $(document).one("ajaxStop", function () {
     }
   }, {
     name: "GeoNames",
-    displayKey: "name",
+    displayKey: "product",
     source: geonamesBH.ttAdapter(),
     templates: {
       header: "<h4 class='typeahead-header'><img src='assets/img/globe.png' width='25' height='25'>&nbsp;GeoNames</h4>"
