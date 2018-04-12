@@ -514,7 +514,7 @@ $(document).one("ajaxStop", function () {
   var geonamesBH = new Bloodhound({
     name: "GeoNames",
     datumTokenizer: function (d) {
-      return Bloodhound.tokenizers.whitespace(d.name);
+      return Bloodhound.tokenizers.whitespace(d.product);
     },
     queryTokenizer: Bloodhound.tokenizers.whitespace,
     remote: {
