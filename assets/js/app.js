@@ -551,7 +551,7 @@ $(document).one("ajaxStop", function () {
   $("#searchbox").typeahead({
     minLength: 3,
     highlight: true,
-    hint: false
+    hint: true
   }, {
     name: "Boroughs",
     displayKey: "name",
