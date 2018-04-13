@@ -24,7 +24,7 @@ $("#about-btn").click(function() {
 });
 
 $("#full-extent-btn").click(function() {
-  map.fitBounds(Umlindi.getBounds());
+  map.fitBounds(BantuWorld.getBounds());
   $(".navbar-collapse.in").collapse("hide");
   return false;
 });
